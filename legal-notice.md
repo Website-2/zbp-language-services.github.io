@@ -10,8 +10,7 @@ ZBP Language Services
 <br>13629 Berlin
 <br>Germany
 
-###### Contact details
-Phone: +49 (0) 176 76298153
+<br>Phone: +49 (0) 176 76298153
 <br>Email: z-c@live.co.uk
 
 ###### VAT identification number pursuant to Sec. 27(a) German Value Added Tax Act (UStG)
