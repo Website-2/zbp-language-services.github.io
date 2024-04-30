@@ -9,8 +9,8 @@ ZBP Language Services
 <br>Bödikersteig 5
 <br>13629 Berlin
 <br>Germany
-<br>Phone: +49 (0) 176 76298153
-<br>Email: z-c@live.co.uk
+<br>+49 (0) 176 76298153
+<br>z-c@live.co.uk
 
 ###### VAT identification number pursuant to Sec. 27(a) German Value Added Tax Act (UStG)
 DE353121886
