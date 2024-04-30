@@ -1,5 +1,5 @@
 ---
-title: Example post 3
+title: Example post 3 "Description of a Pot Still"
 categories:
 - General
 excerpt: |

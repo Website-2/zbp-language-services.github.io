@@ -1,5 +1,5 @@
 ---
-title: Example post 2
+title: Example post 2 "History of the Alembic"
 categories:
 - History
 - External sources
