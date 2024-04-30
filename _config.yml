@@ -123,7 +123,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
+- title: About
   url: /elements/
 - title: Blog
   url: /blog/
@@ -131,12 +131,12 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Legal notice
+  url: /legal-notice/
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Created by Zahra-Claire Bahrani-Peacock
+  url: https://www.linkedin.com/in/z-bahrani-peacock/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
