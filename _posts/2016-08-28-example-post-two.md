@@ -1,5 +1,5 @@
 ---
-title: History of the Alembic
+title: Lorem ipsum 2
 categories:
 - History
 - External sources
