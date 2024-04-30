@@ -2,6 +2,7 @@
 title: Legal notice
 excerpt: "Search for a page or post you're looking for"
 ---
+<br>
 
 ###### Information provided pursuant to Sec. 5 German Telemedia Act (TMG)
 ZBP Language Services
