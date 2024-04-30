@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum
+title: Website under development
 feature_text: |
   ## ZBP Language Services
   Interpreting and transcription for market research moderators, consultants, agencies and LSPs
