@@ -14,6 +14,5 @@ ZBP Language Services
 Phone: +49 (0) 176 76298153
 <br>Email: z-c@live.co.uk
 
-###### VAT identification number
-VATIN pursuant to Sec. 27(a) German Value Added Tax Act (UStG):
+###### VAT identification number pursuant to Sec. 27(a) German Value Added Tax Act (UStG)
 <br>DE353121886
