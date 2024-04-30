@@ -131,12 +131,12 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Legal notice
-  url: /legal-notice/
+- title: Testimonials
+  url: /testimonials/
 
 navigation_footer:
-- title: Created by Zahra-Claire Bahrani-Peacock
-  url: https://www.linkedin.com/in/z-bahrani-peacock/
+- title: Legal notice
+  url: /legal-notice/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/daviddarnes
