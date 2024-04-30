@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum 3
+title: Example post 3
 categories:
 - General
 excerpt: |

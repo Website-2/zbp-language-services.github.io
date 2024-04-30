@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum 1 "Description of an Alembic"
+title: Example post 1 "Description of an Alembic"
 categories:
 - General
 - External sources

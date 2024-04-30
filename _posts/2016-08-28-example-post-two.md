@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum 2
+title: Example post 2
 categories:
 - History
 - External sources
