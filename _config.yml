@@ -40,14 +40,14 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+author: Zahra-Claire Bahrani-Peacock # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Zahra-Claire Bahrani-Peacock # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/DavidDarnes
     - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://www.linkedin.com/in/z-bahrani-peacock/
+    - https://github.com/zbp-language-services
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -125,8 +125,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Notes
+  url: /notes/
 - title: Categories
   url: /categories/
 - title: Search
@@ -139,7 +139,7 @@ navigation_footer:
   url: /legal-notice/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  LinkedIn: https://www.linkedin.com/in/z-bahrani-peacock/
   Twitter: https://bdue.de/suche-uebersetzer-dolmetscher/mitglied/Zahra-Claire-Bahrani-Peacock
   link: https://asetrad.org/fichasocio?id=3620
 
