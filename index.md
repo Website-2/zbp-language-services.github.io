@@ -9,13 +9,13 @@ excerpt: "Interpreting and transcription services for market research moderators
 
 This website is currently under development, meaning only the paragraph you are reading right now and the legal notice relate to ZBP Language Services. Any other content visible at this time does not relate to or describe ZBP Language Services.<br>
 
-### Services<br>
+### How I can help<br>
 
-{% include button.html text="Interpreting" icon="github" link="https://github.com/daviddarnes/alembic" color="#b14345" %} {% include button.html text="Transcription" link="https://buymeacoffee.com/daviddarnes#support" color="#b14345" %}<br>
+{% include button.html text="Market research interpreting" icon="github" link="https://github.com/daviddarnes/alembic" color="#b14345" %} {% include button.html text="Market research transcription" link="https://buymeacoffee.com/daviddarnes#support" color="#b14345" %}<br>
 
-### Clients<br>
+### Who I can help<br>
 
-
+I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br>
 
 ### What clients say<br>
 
