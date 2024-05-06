@@ -15,8 +15,8 @@ This website is currently under development, meaning only the paragraph you are 
 
 ### What others say
 
->"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"
-– A., Market Research Project Manager at LSP
+><small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"
+– A., Market Research Project Manager at LSP</small>
 
 >"It's lovely to have you with us again, as I always receive such positive feedback about your interpreting! I'm often told that your lively interpretation makes watching market research interviews much more interesting and the project results much more tangible." 
 – J., Market Research Moderator
