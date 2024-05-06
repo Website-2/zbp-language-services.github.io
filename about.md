@@ -21,11 +21,13 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+[A link](https://www.linkedin.com/in/z-bahrani-peacock/ "A link")
 
 Hi, I'm Zahra-Claire Bahrani-Peacock. I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.
 
 A culture and nature-focused traveller, I grew up bilingual in the UK and have spent over a decade deepening my understanding of the cultural differences between the two languages I have now been working with for six years. During the many long periods I have spent in Germany and also Spain, my intercultural and organisational skills, flexibility, ability to face challenges head-on and desire to help others have all been invaluable, as have been my spirit of adventure and aim to live in the moment.
+
+Memberships: BDUe and Asetrad logos with hyperlinks. YTI as a button.
 
 Duis aute irure dolor in [A link](https://www.linkedin.com/in/z-bahrani-peacock/ "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
