@@ -11,7 +11,7 @@ This website is currently under development, meaning only the paragraph you are 
 
 ### Services
 <br>
-{% include button.html text="Interpreting" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Transcription ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %}<br>
+{% include button.html text="Interpreting" icon="github" link="https://github.com/daviddarnes/alembic" color="#b14345" %} {% include button.html text="Transcription ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#b14345" %}<br>
 
 ### What others say<br>
 
