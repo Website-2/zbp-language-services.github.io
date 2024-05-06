@@ -95,17 +95,17 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "ZBP Language Services" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "Interpreting and transcription for market research moderators, consultants, agencies and LSPs" # Site description and default description, also used in jekyll-seo-tag
+url: "https://zbp-language-services.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/zbp-language-services/zbp-language-services.github.io"
+email: "z-c@live.co.uk"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
 # service_worker: false # Will turn off the service worker if set to false
-# short_name: "Al" # The web application short name, defaults to the site title
+# short_name: "ZBP" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
@@ -125,8 +125,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Notes
-  url: /notes/
+- title: Blog
+  url: /blog/
 - title: Categories
   url: /categories/
 - title: Search
