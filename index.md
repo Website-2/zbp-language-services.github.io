@@ -15,19 +15,19 @@ This website is currently under development, meaning only the paragraph you are 
 
 ### What others say<br>
 
-><small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"<br>
+>_<small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"_<br>
 – A., Market Research Project Manager at LSP</small>
 
-><small>"It's lovely to have you with us again, as I always receive such positive feedback about your interpreting! I'm often told that your lively interpretation makes watching market research interviews much more interesting and the project results much more tangible."<br>
+>_<small>"It's lovely to have you with us again, as I always receive such positive feedback about your interpreting! I'm often told that your lively interpretation makes watching market research interviews much more interesting and the project results much more tangible."_<br>
 – J., Market Research Moderator</small>
 
-><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
+>_<small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."_<br>
 – N., Market Research Sponsor</small>
 
-><small>"Super helpful to work with as usual!"<br>
+>_<small>"Super helpful to work with as usual!"_<br>
 – P., Project Manager for Market Research Transcription</small>
 
-><small>"Since 2020, Zahra has worked for us on numerous market research projects. She has exceptional skills as a simultaneous and consecutive interpreter for interviews and focus groups. We truly appreciate the quality of her work, professional manner, cooperation and fast communication."<br>
+>_<small>"Since 2020, Zahra has worked for us on numerous market research projects. She has exceptional skills as a simultaneous and consecutive interpreter for interviews and focus groups. We truly appreciate the quality of her work, professional manner, cooperation and fast communication."_<br>
 – P., Market Research Consultant</small><br>
 
 ### Contact form<br>
