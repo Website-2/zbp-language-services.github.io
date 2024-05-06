@@ -139,9 +139,10 @@ navigation_footer:
   url: /legal-notice/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  LinkedIn: https://www.linkedin.com/in/z-bahrani-peacock/
-  Twitter: https://bdue.de/suche-uebersetzer-dolmetscher/mitglied/Zahra-Claire-Bahrani-Peacock
-  link: https://asetrad.org/fichasocio?id=3620
+  LinkedIn: https://www.linkedin.com/in/z-bahrani-peacock/ {:target="_blank"}
+  Twitter: https://bdue.de/suche-uebersetzer-dolmetscher/mitglied/Zahra-Claire-Bahrani-Peacock {:target="_blank"}
+  link: https://asetrad.org/fichasocio?id=3620 {:target="_blank"}
+
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
