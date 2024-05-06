@@ -9,11 +9,15 @@ excerpt: "Interpreting and transcription services for market research moderators
 
 This website is currently under development, meaning only the paragraph you are reading right now and the legal notice relate to ZBP Language Services. Any other content visible at this time does not relate to or describe ZBP Language Services.<br>
 
-### Services
-<br>
-{% include button.html text="Interpreting" icon="github" link="https://github.com/daviddarnes/alembic" color="#b14345" %} {% include button.html text="Transcription ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#b14345" %}<br>
+### Services<br>
 
-### What others say<br>
+{% include button.html text="Interpreting" icon="github" link="https://github.com/daviddarnes/alembic" color="#b14345" %} {% include button.html text="Transcription" link="https://buymeacoffee.com/daviddarnes#support" color="#b14345" %}<br>
+
+### Clients<br>
+
+
+
+### What clients say<br>
 
 ><small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"<br>
 – A., Market Research Project Manager at LSP</small>
