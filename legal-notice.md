@@ -1,6 +1,6 @@
 ---
 title: Legal notice
-excerpt: "Search for a page or post you're looking for"
+excerpt: "Legal notice for website owned by ZBP Language Services"
 ---
 <br>
 ###### Information provided pursuant to Sec. 5 German Telemedia Act (TMG)
