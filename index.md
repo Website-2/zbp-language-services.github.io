@@ -12,7 +12,3 @@ This website is currently under development, meaning only the paragraph you are 
 ### Contact form
 
 {% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
