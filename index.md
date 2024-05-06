@@ -11,7 +11,7 @@ This website is currently under development, meaning only the paragraph you are 
 
 ### How I can help<br>
 
-{% include button.html text="Market research interpreting" icon="github" link="https://github.com/daviddarnes/alembic" color="#b14345" %} {% include button.html text="Market research transcription" link="https://buymeacoffee.com/daviddarnes#support" color="#b14345" %}<br>
+{% include button.html text="Market research interpreting" link="https://github.com/daviddarnes/alembic" color="#b14345" %} {% include button.html text="Market research transcription" link="https://buymeacoffee.com/daviddarnes#support" color="#b14345" %}<br>
 
 ### Who I can help<br>
 
