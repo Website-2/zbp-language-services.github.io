@@ -11,7 +11,7 @@ excerpt: "Interpreting and transcription services for market research moderators
 
 ### How I help<br>
 
-{% include button.html text="Market research interpreting" link="https://github.com/daviddarnes/alembic" color="#b14345" %} {% include button.html text="Market research transcription" link="https://buymeacoffee.com/daviddarnes#support" color="#b14345" %}<br>
+{% include button.html text="Market research interpreting" link="https://zbp-language-services.github.io/services/" color="#b14345" %} {% include button.html text="Market research transcription" link="https://zbp-language-services.github.io/services/" color="#b14345" %}<br>
 
 ### Who I help<br>
 
