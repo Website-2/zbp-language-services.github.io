@@ -31,10 +31,7 @@ Duis aute irure dolor in [A link](https://www.linkedin.com/in/z-bahrani-peacock/
 
 <a id="market_research_transcription">Market research transcription</a>
 
-Other language services provided:
-* [marketing translation and proofreading](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation")* [marketing translation and proofreading](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation")
-* [academic translation and revision](https://www.linkedin.com/in/z-bahrani-peacock/ "academic translation and revision") 
-* [certified translation and interpreting](https://www.linkedin.com/in/z-bahrani-peacock/ "certified translation and interpreting")
+Other language services provided: [marketing translation and proofreading](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation"), [academic translation and revision](https://www.linkedin.com/in/z-bahrani-peacock/ "academic translation and revision"), and [certified translation and interpreting](https://www.linkedin.com/in/z-bahrani-peacock/ "certified translation and interpreting")
 
 1. Item one
 2. Item two
