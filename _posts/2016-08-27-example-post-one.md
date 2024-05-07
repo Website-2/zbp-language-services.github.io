@@ -3,6 +3,7 @@ title: Example post 1 "Description of an Alembic"
 categories:
 - General
 - External sources
+- HTML
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
