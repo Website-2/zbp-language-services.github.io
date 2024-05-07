@@ -7,9 +7,10 @@
 
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
-      <h3>About this site</h3>
+      <h3>About ZBP Language Services</h3>
       <p>{{ site.description }}</p>
       {% include nav-social.html %}
+      {% include button.html text="BDÜ" link="https://david.darn.es" %}
     </section>
 
   {% elsif page.layout == "categories" %}
