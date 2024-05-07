@@ -1,5 +1,5 @@
 ---
-title: Get your website up and running within 1 day
+title: Get a website up and running within 1 day
 categories:
 - Business skills
 excerpt: |
