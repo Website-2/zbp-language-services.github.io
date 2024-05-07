@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Interpreting and transcription services for market research moderators, consultants, agencies and LSPs."
 ---
 
-**This website is currently under development**, meaning that not all the links and pages work and not all the website text relates to ZBP Language Services.<br><br>
+**This website is currently under development**, meaning not all the links and pages work and not all the website text relates to ZBP Language Services.<br><br>
 Hi, I'm Zahra-Claire Bahrani-Peacock. I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br><br>
 
 ### How I help<br>
