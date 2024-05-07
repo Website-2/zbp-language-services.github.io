@@ -8,10 +8,11 @@
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
       <h3>About this site</h3>
-      <p>{{ site.description }}</p>
-      {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/z-bahrani-peacock/" color="#0A66C2" %} 
-      <p>Memberships:</p>
+      <p>{{ site.description }} provided by Zahra-Claire Bahrani-Peacock</p>
+      <p>Professional memberships:</p>
       {% include button.html text="BDÜ" link="https://bdue.de/suche-uebersetzer-dolmetscher/mitglied/Zahra-Claire-Bahrani-Peacock" color="#005EB8" %} {% include button.html text="Asetrad" link="https://asetrad.org/fichasocio?id=3620" color="#25CE7B" %} {% include button.html text="YTI" link="https://www.iti.org.uk/discover/networking/geographical-networks/iti-yorkshire-regional-group.html" color="#0A184C" %}
+      <p>Social media:</p>
+      {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/z-bahrani-peacock/" color="#0A66C2" %} 
     </section>
 
   {% elsif page.layout == "categories" %}
