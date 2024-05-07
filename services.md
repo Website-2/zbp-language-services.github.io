@@ -7,11 +7,11 @@ excerpt: "What do I do?"
 aside: true
 ---
 
-<a id="market_research_interpreting"><h3>Market research interpreting</h3></a>
+<h3><a id="market_research_interpreting">Market research interpreting</a></h3>
 
 XXX
 
-<a display=none id="market_research_transcription"><h3>Market research transcription</h3></a>
+<h3><a display=none id="market_research_transcription">Market research transcription</a></h3>
 
 XXX
 
