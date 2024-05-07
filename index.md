@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Interpreting and transcription services for market research moderators, consultants, agencies and LSPs."
 ---
 
-**This website is currently under development**, meaning only some of the website text relates to ZBP Language Services and some links might not work. As the contact form does not work yet either, send an email to z-c@live.co.uk instead and let me know what you need.<br>
+**This website is currently under development**, meaning only some of the website text relates to ZBP Language Services and some links might not work.<br>
 
 ### How I help<br>
 
