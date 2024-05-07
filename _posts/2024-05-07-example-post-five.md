@@ -1,11 +1,11 @@
 ---
-title: How to quickly create a website
+title: Get your website up and running within 1 day
 categories:
 - Business skills
 excerpt: |
   A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
 feature_text: |
-  ## Creating a website if you're not a web developer
+  ## Quickly create a website even if you're not a web developer
   The modern pot still is a descendant of the alembic, an earlier distillation device
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
