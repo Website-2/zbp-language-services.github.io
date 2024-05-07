@@ -1,23 +1,25 @@
-<form action="https://formspree.io/f/xbjnwwen" method="POST"
+<form 
+ action="https://formspree.io/f/xbjnwwen"
+ method="POST"
 >
-<label>
-  Name: <span class="required">*</span>
-  <input type="email" name="name" placeholder="Your name" required="required">
-</label>
-<label>
-  Email address: <span class="required">*</span>
-  <input type="email" name="email" placeholder="email@website.com" required="required">
-</label>
-<label>
-  Message: <span class="required">*</span>
-  <textarea name="message" placeholder="Your message..." required="required"></textarea>
-</label>
-<!-- your other form fields go here -->
-<button type="submit">Send message</button>
-<br/>
-<small class="small"><span class="required">*</span> indicates a required field</small>
+ <label>
+   Name: <span class="required">*</span>
+   <input type="email" name="name" placeholder="Your name" required="required">
+ </label>
+ <label>
+   Email address: <span class="required">*</span>
+   <input type="email" name="email" placeholder="email@website.com" required="required">
+ </label>
+ <label>
+   Message: <span class="required">*</span>
+   <textarea name="message" placeholder="Your message..." required="required"></textarea>
+ </label>
+ <!-- your other form fields go here -->
+ <button type="submit">Send message</button>
+ <br/>
+ <small class="small"><span class="required">*</span> indicates a required field</small>
 
-<input type="text" name="_gotcha" style="display:none">
-<input type="hidden" name="_subject" value="{{ site.title }} submission via contact form">
-<input type="hidden" name="_next" value="https://zbp-language-services.github.io/thanks.html" />
+ <input type="text" name="_gotcha" style="display:none">
+ <input type="hidden" name="_subject" value="{{ site.title }} submission via contact form">
+ <input type="hidden" name="_next" value="https://zbp-language-services.github.io/thanks.html" />
 </form>
