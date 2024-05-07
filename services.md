@@ -9,11 +9,11 @@ aside: true
 
 <a id="market_research_interpreting"><h3>Market research interpreting</h3></a>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXX
 
 <a display=none id="market_research_transcription"><h3>Market research transcription</h3></a>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXX
 
 Other language services provided: [marketing translation](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation"), [proofreading and quality assurance](https://www.linkedin.com/in/z-bahrani-peacock/ "proofreading and quality assurance"). [academic translation and revision](https://www.linkedin.com/in/z-bahrani-peacock/ "academic translation and revision"), [certified translation and interpreting](https://www.linkedin.com/in/z-bahrani-peacock/ "certified translation and interpreting")
 
