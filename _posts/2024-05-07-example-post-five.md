@@ -1,5 +1,5 @@
 ---
-title: How to create a website quickly
+title: How to quickly create a website
 categories:
 - Business skills
 excerpt: |
