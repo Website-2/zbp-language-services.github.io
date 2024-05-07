@@ -14,4 +14,10 @@
 </label>
 <!-- your other form fields go here -->
 <button type="submit">Send message</button>
+<br/>
+<small class="small"><span class="required">*</span> indicates a required field</small>
+
+<input type="text" name="_gotcha" style="display:none">
+      <input type="hidden" name="_subject" value="{{ site.title }} submission from {{ name }}">
+      <input type="hidden" name="_next" value="/thanks/" />
 </form>
