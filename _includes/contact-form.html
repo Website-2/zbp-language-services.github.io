@@ -1,4 +1,4 @@
-<form class="form  form--{{ name_id }}" method="post" name="{{ name }}" action="https://formspree.io/f/xbjnwwen">
+<form class="form  form--{{ name_id }}" name="{{ name }}" action="https://formspree.io/f/xbjnwwen" method="POST">
   <fieldset class="fieldset  form__fieldset">
     <legend class="legend form__legend">{{ name }}</legend>
     <label class="label" for="name--{{ name_id }}">Name: <span class="required">*</span></label>
@@ -28,7 +28,7 @@
     var email = "{{ site.email | split: "" | reverse | join: "" }}";
     var unraveledEmail = email.split("").reverse().join("");
     var form = document.querySelector(".form--{{ name_id }}");
-      form.setAttribute("action", "https://formspree.io/" + unraveledEmail);
+      form.setAttribute("action", "https://formspree.io/f/xbjnwwen");
   </script>
   <noscript>Please enable JavaScript to use the form.</noscript>
 {% endunless %}
