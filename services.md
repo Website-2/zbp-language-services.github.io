@@ -9,9 +9,9 @@ aside: true
 
 Interpreting and transcription for market research moderators, consultants, agencies and LSPs.
 
-<a id="market_research_interpreting">Market research interpreting</a>
+<a display=none id="market_research_interpreting" >Market research interpreting</a>
 
-<a id="market_research_transcription">Market research transcription</a>
+<a display=none id="market_research_transcription">Market research transcription</a>
 
 Other language services provided: [marketing translation](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation"), [proofreading and quality assurance](https://www.linkedin.com/in/z-bahrani-peacock/ "proofreading and quality assurance"). [academic translation and revision](https://www.linkedin.com/in/z-bahrani-peacock/ "academic translation and revision"), [certified translation and interpreting](https://www.linkedin.com/in/z-bahrani-peacock/ "certified translation and interpreting")
 
