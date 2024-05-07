@@ -27,8 +27,12 @@ Interpreting and transcription for market research moderators, consultants, agen
 
 Duis aute irure dolor in [A link](https://www.linkedin.com/in/z-bahrani-peacock/ "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
+<a id="market_research_interpreting">Market research interpreting</a>
+
+<a id="market_research_transcription">Market research transcription</a>
+
 Other language services provided:
-* [marketing translation and proofreading](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation")
+* [marketing translation and proofreading](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation")* [marketing translation and proofreading](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation")
 * [academic translation and revision](https://www.linkedin.com/in/z-bahrani-peacock/ "academic translation and revision") 
 * [certified translation and interpreting](https://www.linkedin.com/in/z-bahrani-peacock/ "certified translation and interpreting")
 

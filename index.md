@@ -12,7 +12,7 @@ Hi, I'm Zahra-Claire Bahrani-Peacock. I communicate the thoughts, emotions, reac
 
 ### How I help<br>
 
-{% include button.html text="Market research interpreting" link="https://zbp-language-services.github.io/services/" color="#b14345" %} {% include button.html text="Market research transcription" link="https://zbp-language-services.github.io/services/" color="#b14345" %}<br>
+{% include button.html text="Market research interpreting" link="#market_research_interpreting" color="#b14345" %} {% include button.html text="Market research transcription" link="#market_research_transcription" color="#b14345" %}<br>
 
 ### Who I help<br>
 
