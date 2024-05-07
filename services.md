@@ -9,11 +9,11 @@ aside: true
 
 Interpreting and transcription for market research moderators, consultants, agencies and LSPs.
 
-<div hidden><a id="market_research_interpreting" >Market research interpreting</a></div>
+<a id="market_research_interpreting" >Market research interpreting</a>
 
 Market research interpreting
 
-<div hidden><a display=none id="market_research_transcription">Market research transcription</a></div>
+<a display=none id="market_research_transcription">Market research transcription</a>
 
 Market research transcription
 
