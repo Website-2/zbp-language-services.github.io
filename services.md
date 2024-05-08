@@ -7,14 +7,31 @@ excerpt: "What do I do?"
 aside: true
 ---
 
+<br>
 <h5><a id="market_research_interpreting">Market research interpreting</a></h5>
 
-XXX
+* Market research interpreting, to help product teams experience the thoughts, feelings and reactions of their German-language audience
+* Quality assured through HD headset, high-speed WLAN connection, back-up headset and internet connection, as well as regular professional training
+
+- German to English, English to German
+- Field of work: qualitative market research (live/recorded IDIs and FGs with up to 6 participants)
+- Fields of expertise: consumer products (lifestyle, food, tech, household), pharmaceuticals
+- Types: online & offline, simultaneous, consecutive, liaison
+- Clients: market research agencies, consultants
+- Equipment: Sennheiser SC 60 USB ML; WLAN, cable broadband, 1 Gbps; second headset and internet connection in case of emergency
 
 <h5><a display=none id="market_research_transcription">Market research transcription</a></h5>
 
-XXX
+* Market research transcription and content analysis, to help market research report writers and product teams evaluate interview series
 
+* Transcription proofreading, to ensure language service providers offer their clients insightful transcripts
+
+- Bilingual from German to English, monolingual in German and English
+- Field of work: qualitative market research
+- Fields of expertise: medical, pharmaceuticals, consumer products
+- Types: verbatim, intelligent verbatim, edited, content analysis
+- Formats: MS Word, MS Excel
+<br><br>
 Other language services provided: [marketing translation](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation"), [proofreading and quality assurance](https://www.linkedin.com/in/z-bahrani-peacock/ "proofreading and quality assurance"). [academic translation and revision](https://www.linkedin.com/in/z-bahrani-peacock/ "academic translation and revision"), [certified translation and interpreting](https://www.linkedin.com/in/z-bahrani-peacock/ "certified translation and interpreting")
 
 ><small>"Vielen Dank für die tolle Flexibilität, Professionalität, Qualität und insgesamt hervorragende Arbeit."<br>
