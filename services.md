@@ -10,21 +10,19 @@ aside: true
 <br>
 <h5><a id="market_research_interpreting">Market research interpreting</a></h5>
 <br>
-* Market research interpreting, to help product teams experience the thoughts, feelings and reactions of their German-language audience
-* Quality assured through HD headset, high-speed WLAN connection, back-up headset and internet connection, as well as regular professional training
-
-- German to English, English to German
-- Field of work: qualitative market research (live/recorded IDIs and FGs with up to 6 participants)
-- Fields of expertise: consumer products (lifestyle, food, tech, household), pharmaceuticals
-- Types: online & offline, simultaneous, consecutive, liaison
-- Clients: market research agencies, consultants
-- Equipment: Sennheiser SC 60 USB ML; WLAN, cable broadband, 1 Gbps; second headset and internet connection in case of emergency
+* Market research interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language audience
+* Quality assured through HD headset, high-speed WLAN connection, back-up headset and internet connection
+<br>
+* German to English, English to German
+* Settings: online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with up to 6 participants
+* Fields of expertise: consumer products (lifestyle, food, tech, household, body care), pharmaceuticals
+* Clients: market research agencies, consultants, moderators
+* Equipment: Sennheiser SC 60 USB ML, ethernet internet connection (cable broadband, 1 Gbps); second headset and internet connection in case of emergency
 
 <h5><a display=none id="market_research_transcription">Market research transcription</a></h5>
 <br>
-* Market research transcription and content analysis, to help market research report writers and product teams evaluate interview series
-
-* Transcription proofreading, to ensure language service providers offer their clients insightful transcripts
+* Market research transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
+* Transcription proofreading, for language service providers that want to offer their clients insightful transcripts
 
 - Bilingual from German to English, monolingual in German and English
 - Field of work: qualitative market research
