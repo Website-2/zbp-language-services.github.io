@@ -11,7 +11,7 @@ aside: true
 <h5><a id="market_research_interpreting">Market research interpreting</a></h5>
 <br>
 * Interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language audience
-* Quality assured through HD headset, high-speed ethernet connection, back-up headset and internet connection
+* Quality assured through HD headset, high-speed ethernet connection for internet, back-up headset and internet connection
 <br><br>
 * German to English, English to German
 * Settings: online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with up to 6 participants
