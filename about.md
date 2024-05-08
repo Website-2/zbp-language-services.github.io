@@ -8,7 +8,7 @@ aside: true
 ---
 
 <div>
-{% include figure.html image="/assets/Profile.png" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/Profile.png" position="right" width="500" height="500" %}
 <span>
 * State-certified translator and interpreter
 * Sworn translator and interpreter for the languages English and German
