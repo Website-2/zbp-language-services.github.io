@@ -11,13 +11,15 @@ excerpt: "Interpreting and transcription services for market research moderators
 **This website is currently being updated.** This means that not all links and pages work and not all the website text relates to ZBP Language Services.<br><br>
 ZBP Language Services provides translation and transcription services in the languages English and German to moderators, consultants, agencies and LSPs working in qualitative market research.<br><br>
 These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br>
-With 6 years of experience in the language industry and many more before that as a service provider in a different industry, I will help make your project a success thanks to:
+Make your project a success with:
 * Lively interpreting that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 6 participants
-* Cultural insight, so that you can fully understand the cultural differences and obtain relevant results
+* Cultural insight, so that you can fully understand the cultural differences and better interpret interview series and research results
 * British English native and bilingual in German, meaning participant reactions and personality are transferred fluently into the language you need for your project
-* Highly valued by clients for fast communication, last-minute interpreting and transcription requirements, timely delivery of transcriptions, and quick problem solving if IT issues arise
+* A service provider that's highly valued by clients for fast communication, last-minute interpreting and transcription requirements, timely deliveries, and quick problem solving if IT issues arise<br><br><br>
 
-I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br><br>
+### What I do<br>
+
+I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br>
 
 ### How I help<br>
 
