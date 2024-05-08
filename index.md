@@ -8,12 +8,14 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Interpreting and transcription services for market research moderators, consultants, agencies and LSPs."
 ---
 
-**This website is currently under development**, meaning not all the links and pages work and not all the website text relates to ZBP Language Services.<br><br>
+**This website is currently being updated.** This means that not all links and pages work and not all the website text relates to ZBP Language Services.<br><br>
 ZBP Language Services provides translation and transcription services in the languages English and German to moderators, consultants, agencies and LSPs working in qualitative market research.<br><br>
-These services are provided to you by Zahra-Claire Bahrani-Peacock.
+These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br>
+With 6 years of experience in the language industry and many more before that as a service provider in a different industry, I will help make your project a success thanks to:
 * Lively interpreting that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 6 participants
 * Cultural insight, so that you can fully understand the cultural differences and obtain relevant results
-* British English native, bilingual in German, meaning xxx
+* British English native and bilingual in German, meaning participant reactions and personality are transferred fluently into the language you need for your project
+* Highly valued by clients for fast communication, last-minute interpreting and transcription requirements, timely delivery of transcriptions, and quick problem solving if IT issues arise
 
 I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br><br>
 
