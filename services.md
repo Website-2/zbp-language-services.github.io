@@ -9,7 +9,7 @@ aside: true
 
 <br>
 <h5><a id="market_research_interpreting">Market research interpreting</a></h5>
-
+<br>
 * Market research interpreting, to help product teams experience the thoughts, feelings and reactions of their German-language audience
 * Quality assured through HD headset, high-speed WLAN connection, back-up headset and internet connection, as well as regular professional training
 
@@ -21,7 +21,7 @@ aside: true
 - Equipment: Sennheiser SC 60 USB ML; WLAN, cable broadband, 1 Gbps; second headset and internet connection in case of emergency
 
 <h5><a display=none id="market_research_transcription">Market research transcription</a></h5>
-
+<br>
 * Market research transcription and content analysis, to help market research report writers and product teams evaluate interview series
 
 * Transcription proofreading, to ensure language service providers offer their clients insightful transcripts
