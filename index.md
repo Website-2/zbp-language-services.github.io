@@ -15,7 +15,7 @@ Make your medical or consumer project a success with:
 * Lively interpreting that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 6 participants
 * Cultural insight, so that you can fully understand the cultural differences and better interpret interview series and research results
 * A British English native that's bilingual in German, meaning participant reactions and personality are transferred fluently into your language
-* A service provider that's highly valued by others for fast communication, timely deliveries, last-minute interpreting and transcription requirements, and quick problem solving if IT issues arise<br><br><br>
+* A service provider that's highly valued by others for fast communication, timely deliveries, last-minute interpreting and transcription requirements, and quick problem solving skills if IT issues arise<br><br><br>
 
 ### What I do<br>
 
