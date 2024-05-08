@@ -9,7 +9,7 @@ excerpt: "Interpreting and transcription services for market research moderators
 ---
 
 **This website is currently being updated.** This means that not all links and pages work and not all the website text relates to ZBP Language Services.<br><br>
-ZBP Language Services provides translation and transcription services in the languages English and German to moderators, consultants, agencies and LSPs working in qualitative market research.<br><br>
+ZBP Language Services provides translation and transcription in the languages English and German to moderators, consultants, agencies and LSPs working in qualitative market research.<br><br>
 These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br>
 Make your medical or consumer project a success with:
 * Lively interpreting that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 6 participants

@@ -14,6 +14,7 @@ aside: true
 Following 10 years of experience as a service provider in a different industry, I founded ZBP Language Services in 2017, so that I could apply the knowledge, skills and qualifications I gained during that time to international projects.
 <br><br>
 In the 
+<script>
 let d = new Date("July 1, 2017 00:00:00");
 let today = new Date();
 let dyear = today.getFullYear() - d.getFullYear();
@@ -23,9 +24,8 @@ if(today.getMonth() < d.getMonth()) {
 else if(today.getMonth() == d.getMonth() && today.getDate() < d.getDate()) {
  dyear--;
 } 
-
 document.getElementById("demo").innerHTML = dyear()
-
+</script>
 years that I've now been working in the language industry, I've provided support on projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries. According to feedback, the language services I provide help product teams to gain the insights they need to develop their product or campaign.
 <br><br>
 Are you a market research moderator, consultant, agency or LSP working on international projects and looking for insightful research results? Send me a message and let me know what you need!
