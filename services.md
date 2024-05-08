@@ -18,7 +18,7 @@ aside: true
 * Fields of expertise: consumer products (lifestyle, food, tech, household, body care), pharmaceuticals
 * Clients: market research agencies, consultants, moderators
 * Equipment: Sennheiser SC 60 USB ML, ethernet internet connection (cable broadband, 1 Gbps), second headset and internet connection in case of emergency
-<br>
+<br><br>
 
 ><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
 – N., Market Research Sponsor</small>
@@ -33,7 +33,7 @@ aside: true
 * Fields of expertise: medical (oncology, cardiology, gastroenterology, immunology, infectious diseases, robotics), pharmaceuticals, consumer products
 * Types: verbatim, intelligent verbatim, edited, content analysis
 * Formats: MS Word, MS Excel
-<br>
+<br><br>
 
 ><small>"Super helpful to work with as usual!"<br>
 – P., Project Manager for Market Research Transcription</small>
