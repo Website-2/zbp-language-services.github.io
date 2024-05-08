@@ -29,7 +29,8 @@ I communicate the thoughts, emotions, reactions and cultural nuances behind spok
 
 I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br><br><br>
 
-### What others say<br>
+### What others say
+<br>
 
 ><small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"<br>
 – A., Market Research Project Manager at LSP</small>
