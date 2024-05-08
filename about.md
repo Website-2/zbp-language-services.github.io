@@ -7,6 +7,7 @@ excerpt: "Who am I?"
 aside: true
 ---
 
+<br>
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
 * State-certified translator and interpreter
 * Sworn translator and interpreter for the languages English and German
