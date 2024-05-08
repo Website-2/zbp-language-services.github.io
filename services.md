@@ -39,7 +39,7 @@ aside: true
 – P., Project Manager for Market Research Transcription</small>
 
 <br><br>
-Other language services provided: [marketing translation](https://www.linkedin.com/in/z-bahrani-peacock/ "marketing translation"), [proofreading and quality assurance](https://www.linkedin.com/in/z-bahrani-peacock/ "proofreading and quality assurance"), [academic translation and revision](https://www.linkedin.com/in/z-bahrani-peacock/ "academic translation and revision"), [certified translation and interpreting](https://www.linkedin.com/in/z-bahrani-peacock/ "certified translation and interpreting")
+Other language services provided: [marketing translation](/services/marketing-translation/ "marketing translation"), [proofreading and quality assurance](/services/proofreading/ "proofreading and quality assurance"), [academic translation and revision](/services/academic-translation/ "academic translation and revision"), [certified translation and interpreting](/services/certified-translation/ "certified translation and interpreting")
 
 ### What others say
 
