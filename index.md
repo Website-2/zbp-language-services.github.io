@@ -14,8 +14,8 @@ These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br>
 Make your project a success with:
 * Lively interpreting that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 6 participants
 * Cultural insight, so that you can fully understand the cultural differences and better interpret interview series and research results
-* British English native and bilingual in German, meaning participant reactions and personality are transferred fluently into the language you need for your project
-* A service provider that's highly valued by clients for fast communication, last-minute interpreting and transcription requirements, timely deliveries, and quick problem solving if IT issues arise<br><br><br>
+* British English native and bilingual in German, meaning participant reactions and personality are transferred fluently into your language
+* A service provider that's highly valued by clients for fast communication, timely deliveries, last-minute interpreting and transcription requirements, and quick problem solving if IT issues arise<br><br><br>
 
 ### What I do<br>
 
