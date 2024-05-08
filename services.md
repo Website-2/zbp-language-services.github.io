@@ -18,8 +18,11 @@ aside: true
 * Fields of expertise: consumer products (lifestyle, food, tech, household, body care), pharmaceuticals
 * Clients: market research agencies, consultants, moderators
 * Equipment: Sennheiser SC 60 USB ML, ethernet internet connection (cable broadband, 1 Gbps); second headset and internet connection in case of emergency
-<br>
 
+><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
+– N., Market Research Sponsor</small>
+
+<br>
 <h5><a display=none id="market_research_transcription">Market research transcription</a></h5>
 <br>
 * Market research transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
