@@ -3,7 +3,7 @@ title: Welcome
 feature_text: |
   ## ZBP Language Services
   Interpreting and transcription for market research moderators, consultants, agencies and LSPs
-  English, German, Spanish
+  English, German
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Interpreting and transcription services for market research moderators, consultants, agencies and LSPs."
 ---
