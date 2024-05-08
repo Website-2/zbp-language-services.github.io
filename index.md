@@ -20,15 +20,15 @@ Make your medical or consumer project a success with:
 
 ### What I do
 
-I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br><br>
+I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br>
 
 ### How I help
 
-{% include button.html text="Market research interpreting" link="/services/#market_research_interpreting" color="#b14345" %} {% include button.html text="Market research transcription" link="/services/#market_research_transcription" color="#b14345" %}<br><br><br>
+{% include button.html text="Market research interpreting" link="/services/#market_research_interpreting" color="#b14345" %} {% include button.html text="Market research transcription" link="/services/#market_research_transcription" color="#b14345" %}<br><br>
 
 ### Who I help
 
-I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br><br><br>
+I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br><br>
 
 ### What others say
 
