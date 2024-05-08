@@ -12,7 +12,7 @@ aside: true
 <br>
 * Market research interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language audience
 * Quality assured through HD headset, high-speed WLAN connection, back-up headset and internet connection
-<br>
+<br><br>
 * German to English, English to German
 * Settings: online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with up to 6 participants
 * Fields of expertise: consumer products (lifestyle, food, tech, household, body care), pharmaceuticals
@@ -27,7 +27,7 @@ aside: true
 <br>
 * Market research transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
 * Transcription proofreading, for language service providers that want to offer their clients insightful transcripts
-<br>
+<br><br>
 * Bilingual from German to English, monolingual in German and English
 * Field of work: qualitative market research
 * Fields of expertise: medical, pharmaceuticals, consumer products
