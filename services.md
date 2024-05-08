@@ -10,7 +10,7 @@ aside: true
 <br>
 <h5><a id="market_research_interpreting">Market research interpreting</a></h5>
 <br>
-* Market research interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language audience
+* Interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language audience
 * Quality assured through HD headset, high-speed WLAN connection, back-up headset and internet connection
 <br><br>
 * German to English, English to German
@@ -25,7 +25,7 @@ aside: true
 <br>
 <h5><a display=none id="market_research_transcription">Market research transcription</a></h5>
 <br>
-* Market research transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
+* Transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
 * Transcription proofreading, for language service providers that want to offer their clients insightful transcripts
 <br><br>
 * Bilingual from German to English, monolingual in German and English
