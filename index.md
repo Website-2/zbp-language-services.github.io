@@ -38,9 +38,6 @@ I work with market research moderators, consultants and agencies as well as LSPs
 ><small>"It's lovely to have you with us again, as I always receive such positive feedback about your interpreting! I'm often told that your lively interpretation makes watching market research interviews much more interesting and the project results much more tangible."<br>
 – J., Market Research Moderator</small>
 
-><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
-– N., Market Research Sponsor</small>
-
 ><small>"Since 2020, Zahra has worked for us on numerous market research projects. She has exceptional skills as a simultaneous and consecutive interpreter for interviews and focus groups. We truly appreciate the quality of her work, professional manner, cooperation and fast communication."<br>
 – P., Market Research Consultant</small>
 
