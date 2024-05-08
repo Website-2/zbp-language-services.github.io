@@ -19,11 +19,11 @@ I communicate the thoughts, emotions, reactions and cultural nuances behind spok
 
 ### How I help<br>
 
-{% include button.html text="Market research interpreting" link="/services/#market_research_interpreting" color="#b14345" %} {% include button.html text="Market research transcription" link="/services/#market_research_transcription" color="#b14345" %}<br>
+{% include button.html text="Market research interpreting" link="/services/#market_research_interpreting" color="#b14345" %} {% include button.html text="Market research transcription" link="/services/#market_research_transcription" color="#b14345" %}<br><br>
 
 ### Who I help<br>
 
-I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br>
+I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br><br>
 
 ### What others say<br>
 
@@ -40,7 +40,7 @@ I work with market research moderators, consultants and agencies as well as LSPs
 – P., Project Manager for Market Research Transcription</small>
 
 ><small>"Since 2020, Zahra has worked for us on numerous market research projects. She has exceptional skills as a simultaneous and consecutive interpreter for interviews and focus groups. We truly appreciate the quality of her work, professional manner, cooperation and fast communication."<br>
-– P., Market Research Consultant</small><br>
+– P., Market Research Consultant</small><br><br>
 
 ### Send me a message<br>
 
