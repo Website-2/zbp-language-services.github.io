@@ -11,7 +11,7 @@ aside: true
 {% include figure.html image="https://picsum.photos/600/800?image=894" position="right" width="300" height="800" %}
 <span>A culture and nature-focused traveller, I grew up bilingual in the UK and spent long periods in both Germany and also Spain. If you're thinking that my upbringing must have resulted in a big interest in languages and culture, you're right. Thanks to that interest, I've spent the last 10 years deepening my understanding of the cultural differences between the UK, Germany and Spain, meaning the language services I now provide fully consider the cultural nuances of each.
 <br><br>
-Following 10 years of experience as a service provider in a different industry, I founded ZBP Language Services in 2017, so that I could apply the knowledge, skills and qualifications I gained during that time to the relevant projects.
+Following 10 years of experience as a service provider in a different industry, I founded ZBP Language Services in 2017, so that I could apply the knowledge, skills and qualifications I gained during that time to international projects.
 <br><br>
 In the 6 years that I've now been working in the language industry, I've provided support on projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries. According to feedback, the language services I provide help product teams to gain the insights they need to develop their product or campaign.
 <br><br>
