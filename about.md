@@ -8,7 +8,7 @@ aside: true
 ---
 
 <div>
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/Profile.png" position="right" width="300" height="800" %}
 <span>
 * State-certified translator and interpreter
 * Sworn translator and interpreter for the languages English and German
