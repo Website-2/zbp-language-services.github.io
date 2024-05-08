@@ -13,7 +13,7 @@ aside: true
 * Sworn translator and interpreter for the languages English and German
 * 6 years of experience in the language industry
 * Regular professional development to stay up to date
-<br><br>
+<br><br><br>
 A culture and nature-focused traveller, I grew up bilingual in the UK and spent long periods in Germany and also Spain. If you're thinking that my upbringing must have resulted in a big interest in languages and culture, you're right. Thanks to that interest, I've spent the last 10 years deepening my understanding of the cultural differences between the UK, Germany and Spain, meaning the language services I now provide fully consider the cultural nuances that exist.
 <br><br>
 Following 10 years of success as a service provider in a different industry, I founded ZBP Language Services in 2017, so that I could apply the knowledge, skills and qualifications I had gained during that time to international projects and align my work with my interests.
