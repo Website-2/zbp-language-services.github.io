@@ -51,6 +51,6 @@ I work with market research moderators, consultants and agencies as well as LSPs
 – P., Market Research Consultant</small>
 
 <br>
-### Send me a message<br>
-
+### Send me a message
+<br>
 {% include contact-form.html %}
