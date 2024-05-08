@@ -52,5 +52,6 @@ I work with market research moderators, consultants and agencies as well as LSPs
 
 <br>
 ### Send me a message
-<br>
+
 {% include contact-form.html %}
+<br>
