@@ -7,6 +7,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Interpreting and transcription services for market research moderators, consultants, agencies and LSPs."
 ---
+<br>
 
 **This website is currently being updated.** This means that not all links and pages work and not all the website text relates to ZBP Language Services.<br><br><br><br>
 ZBP Language Services provides translation and transcription in the languages English and German to moderators, consultants, agencies and LSPs working in qualitative market research.<br><br>
@@ -18,22 +19,18 @@ Make your medical or consumer project a success with:
 * A service provider that's highly valued by others for fast communication, timely deliveries, last-minute interpreting and transcription requirements, and quick problem solving skills if IT issues arise<br><br><br>
 
 ### What I do
-<br>
 
 I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br><br>
 
 ### How I help
-<br>
 
 {% include button.html text="Market research interpreting" link="/services/#market_research_interpreting" color="#b14345" %} {% include button.html text="Market research transcription" link="/services/#market_research_transcription" color="#b14345" %}<br><br><br>
 
 ### Who I help
-<br>
 
 I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br><br><br>
 
 ### What others say
-<br>
 
 ><small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"<br>
 – A., Market Research Project Manager at LSP</small>
@@ -54,4 +51,3 @@ I work with market research moderators, consultants and agencies as well as LSPs
 ### Send me a message
 
 {% include contact-form.html %}
-<br>
