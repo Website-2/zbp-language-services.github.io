@@ -21,10 +21,10 @@ aside: true
 <br><br>
 
 ><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
-– N., Market Research Sponsor</small>
+– N., Market research sponsor</small>
 
 ><small>"She was fabulous on every single interview she did – always super clear, great diction, the emotions of the speakers really came through, and I also loved how she would say ‘Moderator’ or ‘Panelist’ each time someone spoke so it was clear who we were hearing – it makes note-taking so much easier!"<br>
-– M., Market Research Report Writer</small>
+– M., Market research report writer</small>
 
 <br>
 <h5><a display=none id="market_research_transcription">Market research transcription</a></h5>
@@ -39,7 +39,7 @@ aside: true
 <br><br>
 
 ><small>"Super helpful to work with as usual!"<br>
-– P., Project Manager for Market Research Transcription</small>
+– P., Project manager for market research transcription</small>
 
 <br><br>
 Other language services provided: [marketing translation](/services/marketing-translation/ "marketing translation"), [proofreading and quality assurance](/services/proofreading/ "proofreading and quality assurance"), [academic translation and revision](/services/academic-translation/ "academic translation and revision"), [certified translation and interpreting](/services/certified-translation/ "certified translation and interpreting")
@@ -47,10 +47,10 @@ Other language services provided: [marketing translation](/services/marketing-tr
 ### What others say
 
 ><small>"Vielen Dank für die tolle Flexibilität, Professionalität, Qualität und insgesamt hervorragende Arbeit."<br>
-– D., Verlagsredakteurin</small>
+– D., Editor</small>
 
 ><small>"Thank you so much for the prompt delivery of the translation of the blog post, and I appreciate the details of using client-specific style and highlighting errors in the original."<br>
-– H., Language Service Provider</small>
+– H., Language service provider</small>
 
 ><small>"Ich hätte überhaupt keine Bedenken, mich sofort wieder an Frau Bahrani-Peacock zu wenden. Ich war sehr zufrieden, vor allem damit, dass Frau Bahrani-Peacock immer sehr schnell geantwortet hat und auch wirklich gut erklärt hat, welche Möglichkeiten es in meiner Situation gab."<br>
 – J., Certified translation client</small>
@@ -59,7 +59,7 @@ Other language services provided: [marketing translation](/services/marketing-tr
 – K., Publisher and Founder</small>
 
 ><small>"Sie arbeitete schnell, gründlich, präzise und zuverlässig. Die Besprechungen waren durch ihre freundliche Art sehr angenehm. Ingesamt hohe Qualität zu einem angemessen Preis."<br>
-– S., Art Therapist</small>
+– S., Art therapist</small>
 
 ><small>"Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen."<br>
-– J., Yoga eacher</small>
+– J., Yoga teacher</small>
