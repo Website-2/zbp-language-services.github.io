@@ -56,7 +56,7 @@ Other language services provided: [marketing translation](/services/marketing-tr
 – J., Certified translation client</small>
 
 ><small>"Editors who reviewed Zahra’s translations are unanimous in their high praise for her work. The assistant senior editor in charge of testing considers Zahra a genuinely strong and gifted translator with an exceptional grasp of writing and language."<br>
-– K., Publisher and Founder</small>
+– K., Publisher and founder</small>
 
 ><small>"Sie arbeitete schnell, gründlich, präzise und zuverlässig. Die Besprechungen waren durch ihre freundliche Art sehr angenehm. Ingesamt hohe Qualität zu einem angemessen Preis."<br>
 – S., Art therapist</small>
