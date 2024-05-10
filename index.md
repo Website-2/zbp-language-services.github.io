@@ -28,9 +28,7 @@ I communicate the thoughts, emotions, reactions and cultural nuances behind spok
 ### Who I help
 
 I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br>
-{% include button.html text="Check out my portfolio" link="/portfolio/" color="#b14345" %}
-
-[marketing translation](/services/marketing-translation/ "marketing translation") <br><br>
+{% include button.html text="Check out my portfolio" link="/portfolio/" color="#b14345" %}<br><br>
 
 ### What others say
 
