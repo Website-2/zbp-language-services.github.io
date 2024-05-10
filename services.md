@@ -23,6 +23,9 @@ aside: true
 ><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
 – N., Market Research Sponsor</small>
 
+><small>"She was fabulous on every single interview she did – always super clear, great diction, the emotions of the speakers really came through, and I also loved how she would say ‘Moderator’ or ‘Panelist’ each time someone spoke so it was clear who we were hearing – it makes note-taking so much easier!"<br>
+– M., Market Research Report Writer</small>
+
 <br>
 <h5><a display=none id="market_research_transcription">Market research transcription</a></h5>
 <br>
