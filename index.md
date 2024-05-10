@@ -19,7 +19,8 @@ These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br><
 
 ### What I do
 
-I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br>
+I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br>
+{% include button.html text="Find out more about me" link="/about/" color="#b14345" %}<br><br>
 
 ### How I help
 
