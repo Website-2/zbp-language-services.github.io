@@ -1,9 +1,9 @@
 ---
 title: Services
 feature_text: |
-  What do I do?
+  How can I help?
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "What do I do?"
+excerpt: "How can I help?"
 aside: true
 ---
 
