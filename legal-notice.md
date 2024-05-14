@@ -25,15 +25,15 @@ DE353121886<br><br>
 
 ###### Data collection on this website
 <br>
-<small>Who is responsible for the data collected on this website?</small>
+<small>Who is responsible for the data collected on this website?
 <br><br>
-<small>The data processing on this website is carried out by the website operator. Their contact details can be found in the section "Information about the responsible party" in this privacy policy.</small>
+The data processing on this website is carried out by the website operator. Their contact details can be found in the section "Information about the responsible party" in this privacy policy.</small>
 
 ###### How do we collect your data?
 <br>
-<small>Certain data is collected when you provide it to us. This could be, for example, data you enter into our contact form.</small>
+<small>Certain data is collected when you provide it to us. This could be, for example, data you enter into our contact form.
 <br><br>
-<small>Other data is collected by our IT systems automatically or with your consent when you visit this website. This data is mainly technical data (e.g. internet browser, operating system, or the time of the page visit). The collection of this data occurs automatically as soon as you access this website.</small>
+Other data is collected by our IT systems automatically or with your consent when you visit this website. This data is mainly technical data (e.g. internet browser, operating system, or the time of the page visit). The collection of this data occurs automatically as soon as you access this website.</small>
 
 ###### What do we use your data for?
 <br>
@@ -41,9 +41,9 @@ DE353121886<br><br>
 
 ###### What rights do you have regarding your data?
 <br>
-<small>You have the right to obtain information about the origin, recipient, and purpose of your stored personal data at any time and free of charge. You also have the right to request the correction or deletion of this data. If you have given consent to data processing, you can revoke this consent at any time for the future. Furthermore, you have the right, under certain circumstances, to request the restriction of the processing of your personal data. You also have the right to lodge a complaint with the competent supervisory authority.</small>
+<small>You have the right to obtain information about the origin, recipient, and purpose of your stored personal data at any time and free of charge. You also have the right to request the correction or deletion of this data. If you have given consent to data processing, you can revoke this consent at any time for the future. Furthermore, you have the right, under certain circumstances, to request the restriction of the processing of your personal data. You also have the right to lodge a complaint with the competent supervisory authority.
 <br><br>
-<small>For this and any other questions regarding data protection, you can contact us at any time.</small>
+For this and any other questions regarding data protection, you can contact us at any time.</small>
 
 ### 2. Hosting
 <br>
