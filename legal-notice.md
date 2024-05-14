@@ -14,32 +14,32 @@ ZBP Language Services
 
 ###### VAT identification number pursuant to Sec. 27(a) German Value Added Tax Act (UStG)
 DE353121886
-
+<br>
 # Privacy policy
+<br>
+### 1 Data protection at a glance
 
-## 1 Data protection at a glance
+##### General
 
-### General
+<small>This section provides a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to personally identify you. For detailed information on the subject of data protection, please observe the privacy policy listed below this text.</small>
 
-This section provides a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to personally identify you. For detailed information on the subject of data protection, please observe the privacy policy listed below this text.
-
-#### Data collection on this website
+###### Data collection on this website
 
 Who is responsible for the data collected on this website?
 <br><br>
 The data processing on this website is carried out by the website operator. Their contact details can be found in the section "Information about the responsible party" in this privacy policy.
 
-#### How do we collect your data?
+###### How do we collect your data?
 
 Certain data is collected when you provide it to us. This could be, for example, data you enter into our contact form.
 <br><br>
 Other data is collected by our IT systems automatically or with your consent when you visit this website. This data is mainly technical data (e.g. internet browser, operating system, or the time of the page visit). The collection of this data occurs automatically as soon as you access this website.
 
-#### What do we use your data for?
+###### What do we use your data for?
 
 Some of the data is collected to ensure error-free provision of the website. Other data can be used to analyse your user behaviour.
 
-#### What rights do you have regarding your data?
+###### What rights do you have regarding your data?
 
 You have the right to obtain information about the origin, recipient, and purpose of your stored personal data at any time and free of charge. You also have the right to request the correction or deletion of this data. If you have given consent to data processing, you can revoke this consent at any time for the future. Furthermore, you have the right, under certain circumstances, to request the restriction of the processing of your personal data. You also have the right to lodge a complaint with the competent supervisory authority.
 <br><br>
