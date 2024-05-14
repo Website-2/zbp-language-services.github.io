@@ -85,7 +85,7 @@ Zahra-Claire Bahrani-Peacock<br>
 Bödikersteig 5<br>
 13629 Berlin<br>
 Telephone: +49 (0) 176 76298153<br>
-Email: z-c@live.co.uk<br>
+Email: z-c@live.co.uk
 <br><br>
 The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (e.g. names, email addresses, etc.).</small>
 
@@ -127,12 +127,12 @@ IF YOUR PERSONAL DATA IS PROCESSED FOR DIRECT ADVERTISING, YOU HAVE THE RIGHT TO
 <br>
 <small>You have the right to request the restriction of the processing of your personal data. For this purpose, you can contact us at any time. The right to restriction of processing exists in the following cases:
 <br>
-- If you dispute the accuracy of your personal data stored with us, we generally need time to verify this. For the duration of the verification, you have the right to request the restriction of the processing of your personal data.
-- If the processing of your personal data happened/is happening unlawfully, you can request the restriction of data processing instead of deletion.
-- If we no longer need your personal data, but you need it to exercise, defend, or assert legal claims, you have the right to request the restriction of the processing of your personal data instead of deletion.
-- If you have filed an objection pursuant to Art. 21(1) GDPR, a balance must be struck between your interests and ours. As long as it is not yet clear whose interests prevail, you have the right to request the restriction of the processing of your personal data.
+- <small>If you dispute the accuracy of your personal data stored with us, we generally need time to verify this. For the duration of the verification, you have the right to request the restriction of the processing of your personal data.
+- If the processing of your personal data happened/is happening unlawfully, you can request the restriction of data processing instead of deletion.</small>
+- <small>If we no longer need your personal data, but you need it to exercise, defend, or assert legal claims, you have the right to request the restriction of the processing of your personal data instead of deletion.</small>
+- <small>If you have filed an objection pursuant to Art. 21(1) GDPR, a balance must be struck between your interests and ours. As long as it is not yet clear whose interests prevail, you have the right to request the restriction of the processing of your personal data.</small>
 <br><br>
-If you have restricted the processing of your personal data, this data – apart from its storage – may only be processed with your consent or for the establishment, exercise, or defence of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the European Union or a Member State.</small>
+<small>If you have restricted the processing of your personal data, this data – apart from its storage – may only be processed with your consent or for the establishment, exercise, or defence of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the European Union or a Member State.</small>
 
 ##### SSL or TLS Encryption
 <br>
