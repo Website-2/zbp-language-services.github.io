@@ -17,7 +17,7 @@ DE353121886<br><br><br>
 
 # Privacy policy
 <br>
-#### 1. Data protection at a glance
+#### 1. Data Protection at a Glance
 <br>
 ##### General
 <br>
