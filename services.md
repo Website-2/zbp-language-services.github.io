@@ -42,7 +42,7 @@ aside: true
 – P., Project manager for market research transcription</small>
 
 <br><br>
-Other language services provided: [marketing translation](/services/marketing-translation/ "marketing translation"), [proofreading and quality assurance](/services/proofreading/ "proofreading and quality assurance"), [academic translation and revision](/services/academic-translation/ "academic translation and revision"), [certified translation and interpreting](/services/certified-translation/ "certified translation and interpreting")
+Other language services provided: [proofreading and quality assurance](/services/proofreading/ "proofreading and quality assurance"), [marketing translation](/services/marketing-translation/ "marketing translation"), [academic translation and revision](/services/academic-translation/ "academic translation and revision"), [certified translation and interpreting](/services/certified-translation/ "certified translation and interpreting")
 
 ### What others say
 
