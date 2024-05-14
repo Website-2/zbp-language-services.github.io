@@ -43,7 +43,7 @@ Other data is collected by our IT systems automatically or with your consent whe
 <br>
 <small>You have the right to obtain information about the origin, recipient, and purpose of your stored personal data at any time and free of charge. You also have the right to request the correction or deletion of this data. If you have given consent to data processing, you can revoke this consent at any time for the future. Furthermore, you have the right, under certain circumstances, to request the restriction of the processing of your personal data. You also have the right to lodge a complaint with the competent supervisory authority.
 <br><br>
-For this and any other questions regarding data protection, you can contact us at any time.</small><br>
+For this and any other questions regarding data protection, you can contact us at any time.</small><br><br>
 
 #### 2. Hosting
 <br>
@@ -64,7 +64,7 @@ https://pages.github.com/</small>
 
 ###### Order Processing
 <br>
-<small>We have concluded a contract on order processing (AVV) with the above-mentioned service provider. This is a data protection law contract that ensures the service provider processes the personal data of our website visitors only according to our instructions and in compliance with the GDPR.</small><br>
+<small>We have concluded a contract on order processing (AVV) with the above-mentioned service provider. This is a data protection law contract that ensures the service provider processes the personal data of our website visitors only according to our instructions and in compliance with the GDPR.</small><br><br>
 
 #### 3. General Information and Mandatory Information
 <br>
@@ -138,7 +138,7 @@ IF YOUR PERSONAL DATA IS PROCESSED FOR DIRECT ADVERTISING, YOU HAVE THE RIGHT TO
 <br>
 <small>For security reasons and to protect the transmission of confidential content, such as orders or inquiries you send to us as the site operator, this site uses SSL or TLS encryption. You can recognise an encrypted connection by the fact that the address line of the browser changes from "http://" to "https://" and by the lock symbol in your browser line.
 <br><br>
-If SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties.</small><br>
+If SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties.</small><br><br>
 
 #### 4. Data Collection on this Website
 <br>
