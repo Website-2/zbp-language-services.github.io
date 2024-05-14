@@ -13,11 +13,11 @@ ZBP Language Services
 <br>z-c@live.co.uk
 
 ###### VAT identification number pursuant to Sec. 27(a) German Value Added Tax Act (UStG)
-DE353121886
-<br>
+DE353121886<br>
+
 # Privacy policy
 <br>
-### 1 Data protection at a glance
+### 1. Data protection at a glance
 
 ##### General
 
