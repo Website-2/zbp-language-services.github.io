@@ -64,21 +64,21 @@ https://pages.github.com/</small>
 
 ###### Order Processing
 <br>
-We have concluded a contract on order processing (AVV) with the above-mentioned service provider. This is a data protection law contract that ensures the service provider processes the personal data of our website visitors only according to our instructions and in compliance with the GDPR.
+<small>We have concluded a contract on order processing (AVV) with the above-mentioned service provider. This is a data protection law contract that ensures the service provider processes the personal data of our website visitors only according to our instructions and in compliance with the GDPR.</small>
 
 #### 3. General Information and Mandatory Information
 <br>
 ##### Data Protection
 <br>
-The operator of these pages takes the protection of your personal data very seriously. We treat your personal data confidentially and according to the legal data protection regulations as well as this privacy policy.
+<small>The operator of these pages takes the protection of your personal data very seriously. We treat your personal data confidentially and according to the legal data protection regulations as well as this privacy policy.
 <br><br>
 When you use this website, certain personal data is collected. Personal data is data with which you can be personally identified. This privacy policy explains what data we collect and what we use it for. It also explains how and for what purpose this happens.
 <br><br>
-We point out that data transmission over the Internet (e.g. when communicating by email) can involve gaps in security. Complete protection of data from access by third parties is not possible.
+We point out that data transmission over the Internet (e.g. when communicating by email) can involve gaps in security. Complete protection of data from access by third parties is not possible.</small>
 
 ##### Information about the Responsible Party
 <br>
-The responsible party for data processing on this website is:
+<small>The responsible party for data processing on this website is:
 <br><br>
 ZBP Language Services<br>
 Zahra-Claire Bahrani-Peacock<br>
@@ -87,33 +87,33 @@ Bödikersteig 5<br>
 Telephone: +49 (0) 176 76298153<br>
 Email: z-c@live.co.uk<br>
 <br><br>
-The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (e.g. names, email addresses, etc.).
+The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (e.g. names, email addresses, etc.).</small>
 
 ##### Duration of Storage
 <br>
-Unless a more specific storage period is stated within this privacy policy, your personal data will remain with us until the purpose for data processing no longer applies. If you make a legitimate request for deletion or revoke your consent to data processing, your data will be deleted unless we have other legally permissible reasons for storing your personal data (e.g. tax or commercial law retention periods); in the latter case, the deletion takes place after these reasons cease to apply.
+<small>Unless a more specific storage period is stated within this privacy policy, your personal data will remain with us until the purpose for data processing no longer applies. If you make a legitimate request for deletion or revoke your consent to data processing, your data will be deleted unless we have other legally permissible reasons for storing your personal data (e.g. tax or commercial law retention periods); in the latter case, the deletion takes place after these reasons cease to apply.</small>
 
 ##### General Information on the Legal Bases of Data Processing on this Website
 <br>
-If you have consented to data processing, we process your personal data based on Art. 6(1)(a) GDPR or Art. 9(2)(a) GDPR, if special categories of data according to Art. 9(1) GDPR are processed. In the case of explicit consent to the transfer of personal data to third countries, the data processing is additionally based on Art. 49(1)(a) GDPR. If you have consented to the storage of cookies or to the access to information on your terminal device (e.g. via device fingerprinting), the data processing is also based on § 25(1) TTDSG. This consent can be revoked at any time. If your data is necessary for the fulfilment of a contract or for the implementation of pre-contractual measures, we process your data based on Art. 6(1)(b) GDPR. Furthermore, we process your data if this is necessary to fulfil a legal obligation based on Art. 6(1)(c) GDPR. Data processing can also be based on our legitimate interest according to Art. 6(1)(f) GDPR. The relevant legal bases in each individual case are explained in the following paragraphs of this privacy policy.
+<small>If you have consented to data processing, we process your personal data based on Art. 6(1)(a) GDPR or Art. 9(2)(a) GDPR, if special categories of data according to Art. 9(1) GDPR are processed. In the case of explicit consent to the transfer of personal data to third countries, the data processing is additionally based on Art. 49(1)(a) GDPR. If you have consented to the storage of cookies or to the access to information on your terminal device (e.g. via device fingerprinting), the data processing is also based on § 25(1) TTDSG. This consent can be revoked at any time. If your data is necessary for the fulfilment of a contract or for the implementation of pre-contractual measures, we process your data based on Art. 6(1)(b) GDPR. Furthermore, we process your data if this is necessary to fulfil a legal obligation based on Art. 6(1)(c) GDPR. Data processing can also be based on our legitimate interest according to Art. 6(1)(f) GDPR. The relevant legal bases in each individual case are explained in the following paragraphs of this privacy policy.</small>
 
 ##### Recipients of Personal Data
 <br>
-In the context of our business activities, we sometimes work with external parties. In some cases, this also involves the transfer of personal data to these external parties. We only pass on personal data to external parties if this is necessary in the context of contract fulfilment, if we are legally obliged to do so (e.g. transfer of data to tax authorities), if we have a legitimate interest in the data transfer (Art. 6(1)(f) GDPR), or if another legal basis allows this data transfer. When using processors, we only transfer personal data of our clients based on a valid order processing contract. In the case of joint processing, a joint processing contract has been concluded.
+<small>In the context of our business activities, we sometimes work with external parties. In some cases, this also involves the transfer of personal data to these external parties. We only pass on personal data to external parties if this is necessary in the context of contract fulfilment, if we are legally obliged to do so (e.g. transfer of data to tax authorities), if we have a legitimate interest in the data transfer (Art. 6(1)(f) GDPR), or if another legal basis allows this data transfer. When using processors, we only transfer personal data of our clients based on a valid order processing contract. In the case of joint processing, a joint processing contract has been concluded.</small>
 
 ##### Revocation of Your Consent to Data Processing
 <br>
-Many data processing operations are only possible with your express consent. You can revoke your already given consent at any time. The legality of the data processing carried out until the revocation remains unaffected by the revocation.
+<small>Many data processing operations are only possible with your express consent. You can revoke your already given consent at any time. The legality of the data processing carried out until the revocation remains unaffected by the revocation.</small>
 
 ##### Right to Object to Data Collection in Special Cases and to Direct Advertising (Art. 21 GDPR)
 <br>
-IF THE DATA PROCESSING IS BASED ON ART. 6(1)(E) OR (F) GDPR, YOU HAVE THE RIGHT TO OBJECT TO THE PROCESSING OF YOUR PERSONAL DATA AT ANY TIME FOR REASONS ARISING FROM YOUR PARTICULAR SITUATION; THIS ALSO APPLIES TO PROFILING BASED ON THESE PROVISIONS. THE RESPECTIVE LEGAL BASIS ON WHICH A PROCESSING IS BASED CAN BE FOUND IN THIS PRIVACY POLICY. IF YOU OBJECT, WE WILL NO LONGER PROCESS YOUR AFFECTED PERSONAL DATA UNLESS WE CAN PROVE COMPELLING LEGITIMATE GROUNDS FOR THE PROCESSING THAT OVERRIDE YOUR INTERESTS, RIGHTS AND FREEDOMS OR THE PROCESSING IS FOR THE PURPOSE OF ASSERTING, EXERCISING OR DEFENDING LEGAL CLAIMS (OBJECTION ACCORDING TO ART. 21(1) GDPR).
+<small>IF THE DATA PROCESSING IS BASED ON ART. 6(1)(E) OR (F) GDPR, YOU HAVE THE RIGHT TO OBJECT TO THE PROCESSING OF YOUR PERSONAL DATA AT ANY TIME FOR REASONS ARISING FROM YOUR PARTICULAR SITUATION; THIS ALSO APPLIES TO PROFILING BASED ON THESE PROVISIONS. THE RESPECTIVE LEGAL BASIS ON WHICH A PROCESSING IS BASED CAN BE FOUND IN THIS PRIVACY POLICY. IF YOU OBJECT, WE WILL NO LONGER PROCESS YOUR AFFECTED PERSONAL DATA UNLESS WE CAN PROVE COMPELLING LEGITIMATE GROUNDS FOR THE PROCESSING THAT OVERRIDE YOUR INTERESTS, RIGHTS AND FREEDOMS OR THE PROCESSING IS FOR THE PURPOSE OF ASSERTING, EXERCISING OR DEFENDING LEGAL CLAIMS (OBJECTION ACCORDING TO ART. 21(1) GDPR).
 <br><br>
-IF YOUR PERSONAL DATA IS PROCESSED FOR DIRECT ADVERTISING, YOU HAVE THE RIGHT TO OBJECT AT ANY TIME TO THE PROCESSING OF YOUR PERSONAL DATA FOR THE PURPOSE OF SUCH ADVERTISING; THIS ALSO APPLIES TO PROFILING INSOFAR AS IT IS RELATED TO SUCH DIRECT ADVERTISING. IF YOU OBJECT, YOUR PERSONAL DATA WILL NO LONGER BE USED FOR DIRECT ADVERTISING PURPOSES (OBJECTION ACCORDING TO ART. 21(2) GDPR).
+IF YOUR PERSONAL DATA IS PROCESSED FOR DIRECT ADVERTISING, YOU HAVE THE RIGHT TO OBJECT AT ANY TIME TO THE PROCESSING OF YOUR PERSONAL DATA FOR THE PURPOSE OF SUCH ADVERTISING; THIS ALSO APPLIES TO PROFILING INSOFAR AS IT IS RELATED TO SUCH DIRECT ADVERTISING. IF YOU OBJECT, YOUR PERSONAL DATA WILL NO LONGER BE USED FOR DIRECT ADVERTISING PURPOSES (OBJECTION ACCORDING TO ART. 21(2) GDPR).</small>
 
 ##### Right to Lodge a Complaint with the Competent Supervisory Authority
 <br>
-In the event of violations of GDPR, the data subjects have the right to lodge a complaint with a supervisory authority in the Member State of their habitual residence, place of work, or place of the alleged infringement. The right to lodge a complaint exists without prejudice to other administrative or judicial remedies.
+<small>In the event of violations of GDPR, the data subjects have the right to lodge a complaint with a supervisory authority in the Member State of their habitual residence, place of work, or place of the alleged infringement. The right to lodge a complaint exists without prejudice to other administrative or judicial remedies.</small>
 
 ##### Right to Data Portability
 <br>
