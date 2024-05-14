@@ -42,8 +42,6 @@ aside: true
 – P., Project manager for market research transcription</small>
 
 <br><br>
-Other language services provided: [proofreading and quality assurance](/services/proofreading/ "proofreading and quality assurance"), [marketing translation](/services/marketing-translation/ "marketing translation"), [academic translation and revision](/services/academic-translation/ "academic translation and revision"), [certified translation and interpreting](/services/certified-translation/ "certified translation and interpreting")
-
 ### What others say
 
 ><small>"Vielen Dank für die tolle Flexibilität, Professionalität, Qualität und insgesamt hervorragende Arbeit."<br>
@@ -63,3 +61,5 @@ Other language services provided: [proofreading and quality assurance](/services
 
 ><small>"Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen."<br>
 – J., Yoga teacher</small>
+
+Other language services provided: [proofreading and quality assurance](/services/proofreading/ "proofreading and quality assurance"), [marketing translation](/services/marketing-translation/ "marketing translation"), [academic translation and revision](/services/academic-translation/ "academic translation and revision"), [certified translation and interpreting](/services/certified-translation/ "certified translation and interpreting")
