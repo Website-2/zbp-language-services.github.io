@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "ZBP Language Services" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Interpreting and transcription in English and German for market research moderators, consultants, agencies and LSPs" # Site description and default description, also used in jekyll-seo-tag
-url: "https://zbp-language-services.github.io/" # Site url, also used in jekyll-seo-tag
+url: "https://www.zbp-language-services.com/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/zbp-language-services/zbp-language-services.github.io"
 email: "z-c@live.co.uk"

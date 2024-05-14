@@ -1,4 +1,4 @@
-# [zbp-language-services.github.io](https://zbp-language-services.github.io/)
+# [zbp-language-services.com](https://www.zbp-language-services.com/)
 
 # [Alembic](https://alembic.darn.es/) 
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
