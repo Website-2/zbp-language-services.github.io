@@ -128,7 +128,7 @@ IF YOUR PERSONAL DATA IS PROCESSED FOR DIRECT ADVERTISING, YOU HAVE THE RIGHT TO
 <small>You have the right to request the restriction of the processing of your personal data. For this purpose, you can contact us at any time. The right to restriction of processing exists in the following cases:
 <br>
 - <small>If you dispute the accuracy of your personal data stored with us, we generally need time to verify this. For the duration of the verification, you have the right to request the restriction of the processing of your personal data.
-- If the processing of your personal data happened/is happening unlawfully, you can request the restriction of data processing instead of deletion.</small>
+- <small>If the processing of your personal data happened/is happening unlawfully, you can request the restriction of data processing instead of deletion.</small>
 - <small>If we no longer need your personal data, but you need it to exercise, defend, or assert legal claims, you have the right to request the restriction of the processing of your personal data instead of deletion.</small>
 - <small>If you have filed an objection pursuant to Art. 21(1) GDPR, a balance must be struck between your interests and ours. As long as it is not yet clear whose interests prevail, you have the right to request the restriction of the processing of your personal data.</small>
 <br><br>
