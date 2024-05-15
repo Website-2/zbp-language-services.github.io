@@ -1,15 +1,17 @@
 ---
-title: Get a website up and running within 1 day
+title: Professional development in 2023
 categories:
-- Business skills
+- Professional development
 excerpt: |
   A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
 feature_text: |
-  ## Quickly create a website even if you're not a web developer
+  ## Workshops, talks, books, journals and more
   The modern pot still is a descendant of the alembic, an earlier distillation device
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
+
+I continued my 2022 journal subscription to MultiLingual into this year as well, and also added Freelancer Magazine in July, which I'd heard about from a colleague at a workshop organised by the YTI at the beginning of the year. I love the community that has been created by Freelancer Magazine and always look forward to sitting down with a cup of tea and a biscuit to give it a read when it comes into my inbox.
 
 A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
 
