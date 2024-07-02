@@ -41,7 +41,7 @@ aside: true
 ><small>"Super helpful to work with as usual!"<br>
 – P., Project manager for market research transcription</small>
 
-><small>"Vielen Dank für Deine Unterstützung, war super, wie immer. Alles perfekt!"<br>
+><small>"Vielen Dank für die Unterstützung bei der Transkription, war super, wie immer. Alles perfekt!"<br>
 – W., Market research agency owner and moderator</small>
 
 <br><br>
