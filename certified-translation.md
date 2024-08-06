@@ -4,7 +4,7 @@ feature_text: |
   How can I help?
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "How can I help?"
-aside: true
+aside: false
 permalink: services/certified-translation-interpreting/
 ---
 
