@@ -38,7 +38,7 @@ If it's a native English transcriber you're looking for to produce transcripts t
 * Transcription proofreading, for language service providers that want to offer their clients insightful transcripts
 <br><br>
 * Bilingual from German to English, monolingual in German and English
-* Fields of expertise: medical (oncology, cardiology, gastroenterology, immunology, infectious diseases, robotics), pharmaceuticals, consumer products
+* Fields of expertise: medical (oncology, cardiology, gastroenterology, immunology, infectious diseases, robotics), pharmaceuticals, consumer
 * Types: verbatim, intelligent verbatim, edited, content analysis
 * Formats: MS Word, MS Excel
 <br><br>

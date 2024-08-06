@@ -9,8 +9,6 @@ permalink: services/certified-translation-interpreting/
 ---
 
 <br>
-<h5><a id="market_research_interpreting">Certified translation and interpreting</a></h5>
-<br>
 Do you have a document that needs translating, even if it's urgent?<br><br>
 Do you need an interpreter for your wedding registration appointment or ceremony?<br><br>
 Are you looking for someone to accompany you to an appointment at a registration office in Berlin to help with your German? 
