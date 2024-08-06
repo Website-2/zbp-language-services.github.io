@@ -21,7 +21,6 @@ Just send me an email at <a href="mailto:z-c@live.co.uk">&nbsp;z-c@live.co.uk</a
 <br><br><br>
 * I'm a translator and interpreter certified in Germany by the courts of Berlin and Munich
 * I feature on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
-
 <br><br><br>
 ><small>"Ich hätte überhaupt keine Bedenken, mich sofort wieder an Frau Bahrani-Peacock zu wenden. Ich war sehr zufrieden, vor allem damit, dass Frau Bahrani-Peacock immer sehr schnell geantwortet hat und auch wirklich gut erklärt hat, welche Möglichkeiten es in meiner Situation gab."<br>
 – J., Certified translation client</small>
