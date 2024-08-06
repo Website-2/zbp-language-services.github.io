@@ -58,9 +58,6 @@ If it's a native English transcriber you're looking for to produce transcripts t
 ><small>"Thank you so much for the prompt delivery of the translation of the blog post, and I appreciate the details of using client-specific style and highlighting errors in the original."<br>
 – H., Language service provider</small>
 
-><small>"Ich hätte überhaupt keine Bedenken, mich sofort wieder an Frau Bahrani-Peacock zu wenden. Ich war sehr zufrieden, vor allem damit, dass Frau Bahrani-Peacock immer sehr schnell geantwortet hat und auch wirklich gut erklärt hat, welche Möglichkeiten es in meiner Situation gab."<br>
-– J., Certified translation client</small>
-
 ><small>"Editors who reviewed Zahra’s translations are unanimous in their high praise for her work. The assistant senior editor in charge of testing considers Zahra a genuinely strong and gifted translator with an exceptional grasp of writing and language."<br>
 – K., Publisher and founder</small>
 
