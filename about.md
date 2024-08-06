@@ -11,7 +11,7 @@ aside: true
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
 * State-certified translator and interpreter
 * Sworn translator and interpreter
-* 6 years of experience in the language industry
+* 7 years of experience in the language industry
 * Regular professional development to ensure up-to-date knowledge of industry trends and best practices
 * In-depth cultural knowledge due to growing up bilingual and having lived abroad
 <br><br><br>
