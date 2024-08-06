@@ -10,7 +10,7 @@ permalink: about/portfolio/
 
 <br>
 <h5>Background, education and accreditations</h5>
-
+<br><br>
 * 2024-present: Committee member, BDÜ Berlin-Brandenburg regional chapter
 * 2017-present: Translator, proofreader, QA, transcriber, interpreter, self-employed at ZBP Language Services
 * 2023: Court accreditation in Berlin, Germany
