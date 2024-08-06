@@ -68,4 +68,4 @@ If it's a native English transcriber you're looking for to produce transcripts t
 – J., Yoga teacher</small>
 
 <br><br>
-<small>Other language services provided: [proofreading and quality assurance](/services/proofreading/ "proofreading and quality assurance"), [marketing translation](/services/marketing-translation/ "marketing translation"), [academic translation and revision](/services/academic-translation/ "academic translation and revision"), [certified translation and interpreting](/services/certified-translation-interpreting/ "certified translation and interpreting")</small>
+<small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing, [certified translation and interpreting](/services/certified-translation-interpreting/ "certified translation and interpreting")</small>
