@@ -12,15 +12,15 @@ excerpt: "Interpreting and transcription from German to English for market resea
 [This website is currently being updated. Not all links and pages will work.]<br><br>
 ZBP Language Services provides translation and transcription in the languages English and German to moderators, consultants, agencies and LSPs working in qualitative market research.<br><br>
 These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br><br>
-**Make your medical or consumer project a success with:**
-* **Lively interpreting** that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 6 participants
-* **Cultural insight**, so that you can fully understand the cultural differences and better interpret interview series and research results
-* A **British English native** that's bilingual in German, meaning participant reactions and personality are transferred fluently into your language
+**Make your consumer or medical research project a success with:**
+* **Lively interpreting** that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 8 participants
+* **Cultural insight**, so that everyone can fully understand the cultural differences and better interpret interview series and research results
+* A **British English native** that's bilingual in German, meaning participant reactions and personality are transferred fluently into your end client's language
 * A service provider that's highly valued by others for **fast communication**, **timely deliveries**, **last-minute transcription and content analysis**, and **quick problem solving skills if IT issues arise**<br><br><br>
 
 ### What I do
 
-I communicate the thoughts, emotions, reactions and cultural nuances behind spoken words fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or marketing campaign should take.<br><br>
+I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
 {% include button.html text="Find out more about me" link="/about/" color="#b14345" %}<br><br>
 
 ### How I help
@@ -29,7 +29,7 @@ I communicate the thoughts, emotions, reactions and cultural nuances behind spok
 
 ### Who I help
 
-I work with market research moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br><br>
+I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries.<br><br>
 {% include button.html text="Take a look at my portfolio" link="/portfolio/" color="#b14345" %}<br><br>
 
 ### What others say
