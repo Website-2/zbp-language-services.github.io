@@ -21,7 +21,7 @@ Following 10 years of success as a service provider in a different industry, I f
 <br><br>
 In the 7 years that I've now been working in the language industry, I've provided support on projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries. According to feedback, the language services I provide help product teams to gain the insights they need to develop their product or campaign.
 <br><br>
-Are you a market research moderator, consultant, agency or LSP working on international projects and looking for insightful research results?
+Are you a market research project manager, moderator, consultant, agency or LSP working on international projects and looking for insightful research results?
 <br>Send me a message and let me know what you need!<br><br>
 {% include button.html text="Send me a message" link="/contact.html" color="#b14345" %} {% include button.html text="Take a look at my portfolio" link="/portfolio/" color="#b14345" %}
 <br>
