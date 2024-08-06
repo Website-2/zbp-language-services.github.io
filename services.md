@@ -15,7 +15,7 @@ aside: true
 <br><br>
 * German to English, English to German
 * Settings: online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with up to 8 participants
-* Fields of expertise: consumer products (lifestyle, food, household, body care, IT, gaming, social media, third sector), pharmaceuticals
+* Fields of expertise: consumer products (lifestyle, food, household, body care, IT, gaming, social media, third sector, finances), pharmaceuticals
 * Clients: market research agencies, consultants, moderators
 * Equipment: Sennheiser SC 60 USB ML, ethernet internet connection (cable broadband, 1 Gbps), second headset and internet connection in case of emergency
 <br><br>
