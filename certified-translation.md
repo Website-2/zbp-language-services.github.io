@@ -13,7 +13,7 @@ Do you have a document that needs translating, even if it's urgent?<br><br>
 Do you need an interpreter for your wedding registration appointment or ceremony?<br><br>
 Are you looking for someone to accompany you to an appointment at a registration office in Berlin to help with your German? 
 <br><br>
-Just send me an email at z-c@live.co.uk or give me a call under +49 176 76298153 and tell me what you need. I'd be happy to help!
+Just send me an email at <a href="mailto:z-c@live.co.uk">&nbsp;z-c@live.co.uk</a> or give me a call under <a href="tel:004917676298153">&nbsp;+49 176 76298153</a> and tell me what you need. I'd be happy to help!
 <br><br>
 * Languages I can help with: German to English, English to German
 * How I can help for translations: personal documents for wedding ceremonies, visa and passport applications, etc., even if it's urgent
