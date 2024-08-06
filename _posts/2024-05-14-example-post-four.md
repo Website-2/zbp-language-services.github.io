@@ -1,5 +1,5 @@
 ---
-title: Example post 4 "History of the Alembic"
+title: Example post 4
 categories:
 - Fees
 - FAQs
