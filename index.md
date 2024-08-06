@@ -2,7 +2,7 @@
 title: Welcome
 feature_text: |
   ## ZBP Language Services
-  Interpreting and transcription in English and German for market research studios, moderators, consultants, agencies and LSPs
+  Interpreting and transcription from German to English for market research studios, moderators, consultants, agencies and LSPs
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Interpreting and transcription from German to English for market research studios, moderators, consultants, agencies and LSPs"
 ---
