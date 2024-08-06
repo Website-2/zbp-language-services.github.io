@@ -19,7 +19,7 @@ A culture and nature-focused traveller, I grew up bilingual in the UK and spent 
 <br><br>
 Following 10 years of success as a service provider in a different industry, I founded ZBP Language Services in 2017, so that I could apply the knowledge, skills and qualifications I had gained during that time to international projects and align my work with my interests.
 <br><br>
-In the 6 years that I've now been working in the language industry, I've provided support on projects sponsored by Fortune Global 500 companies and other market leaders in the consumer and medical industries. According to feedback, the language services I provide help product teams to gain the insights they need to develop their product or campaign.
+In the 7 years that I've now been working in the language industry, I've provided support on projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries. According to feedback, the language services I provide help product teams to gain the insights they need to develop their product or campaign.
 <br><br>
 Are you a market research moderator, consultant, agency or LSP working on international projects and looking for insightful research results?
 <br>Send me a message and let me know what you need!<br><br>
