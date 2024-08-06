@@ -32,7 +32,7 @@ Are you looking for a native English interpreter for 1v1s or focus groups that w
 <br>
 <h5><a display=none id="market_research_transcription">Market research transcription</a></h5>
 <br>
-If it's a native English transcriber you're looking for who will produce a transcript 
+If it's a native English transcriber you're looking for to produce transcripts that are in line with your expectations, you've come to the right place. Just send me an email with information about your project and I'll get back to you ASAP.
 <br>
 * Transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
 * Transcription proofreading, for language service providers that want to offer their clients insightful transcripts
