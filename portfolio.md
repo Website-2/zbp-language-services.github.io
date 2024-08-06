@@ -1,11 +1,11 @@
 ---
-title: Certified translation and interpreting
+title: Portfolio
 feature_text: |
-  How can I help?
+  Background and experience
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "How can I help?"
+excerpt: "Background and experience"
 aside: false
-permalink: services/certified-translation-interpreting/
+permalink: about/portfolio/
 ---
 
 <br>

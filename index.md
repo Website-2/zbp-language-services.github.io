@@ -29,7 +29,7 @@ I communicate the thoughts, emotions, reactions and cultural nuances behind the 
 ### Who I help
 
 I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.<br><br>
-{% include button.html text="Take a look at my portfolio" link="/portfolio/" color="#b14345" %}<br><br>
+{% include button.html text="Take a look at my portfolio" link="/about/portfolio/" color="#b14345" %}<br><br>
 
 ### What others say
 
