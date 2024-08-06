@@ -12,8 +12,8 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo. Phasellus rhoncus, erat quis iaculis tempus, neque lacus scelerisque velit, vitae tristique lectus metus non eros. Fusce porttitor pulvinar ligula vitae aliquet.
 
-At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo. Phasellus rhoncus, erat quis iaculis tempus, neque lacus scelerisque velit, vitae tristique lectus metus non eros. Fusce porttitor pulvinar ligula vitae aliquet. Etiam aliquet, mauris at bibendum condimentum, nisl urna sagittis elit, ac lobortis metus erat efficitur nisi. Nam condimentum quam quis ligula lobortis, at tempus risus gravida.
 
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo.
