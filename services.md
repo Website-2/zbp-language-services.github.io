@@ -10,12 +10,12 @@ aside: true
 <br>
 <h5><a id="market_research_interpreting">Market research interpreting</a></h5>
 <br>
-* Interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language audience
+* Interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language participants
 * Quality assured through HD headset, high-speed ethernet connection for internet, back-up headset and internet connection
 <br><br>
 * German to English, English to German
-* Settings: online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with up to 6 participants
-* Fields of expertise: consumer products (lifestyle, food, tech, household, body care), pharmaceuticals
+* Settings: online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with up to 8 participants
+* Fields of expertise: consumer products (lifestyle, food, household, body care, IT, gaming, social media, third sector), pharmaceuticals
 * Clients: market research agencies, consultants, moderators
 * Equipment: Sennheiser SC 60 USB ML, ethernet internet connection (cable broadband, 1 Gbps), second headset and internet connection in case of emergency
 <br><br>
