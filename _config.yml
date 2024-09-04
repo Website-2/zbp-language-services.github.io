@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "ZBP Language Services" # Site name or title, also used in jekyll-seo-tag
 logo: "./assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Interpreting and transcription from German to English for market research studios, moderators, consultants, agencies and LSPs" # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.website-2.github.io/zbp-language-services.github.io/" # Site url, also used in jekyll-seo-tag
+url: "https://www.website-2.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/zbp-language-services/zbp-language-services.github.io"
 email: "z-c@live.co.uk"
@@ -122,17 +122,17 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /zbp-language-services.github.io/
 - title: Services
-  url: /services/
+  url: /zbp-language-services.github.io/services/
 - title: About
-  url: /about/
+  url: /zbp-language-services.github.io/about/
 - title: Notes
-  url: /notes/
+  url: /zbp-language-services.github.io/notes/
 - title: Categories
-  url: /categories/
+  url: /zbp-language-services.github.io/categories/
 - title: Search
-  url: /search/
+  url: /zbp-language-services.github.io/search/
 
 navigation_footer:
 - title: Legal notice
