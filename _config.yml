@@ -124,19 +124,19 @@ navigation_header:
 - title: Home
   url: /
 - title: Services
-  url: /services/
+  url: /zbp-language-services.github.io/services/
 - title: About
-  url: /about/
+  url: /zbp-language-services.github.io/about/
 - title: Notes
-  url: /notes/
+  url: /zbp-language-services.github.io/notes/
 - title: Categories
-  url: /categories/
+  url: /zbp-language-services.github.io/categories/
 - title: Search
-  url: /search/
+  url: /zbp-language-services.github.io/search/
 
 navigation_footer:
 - title: Legal notice
-  url: /legal-notice/
+  url: /zbp-language-services.github.io/legal-notice/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/z-bahrani-peacock/
