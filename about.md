@@ -8,7 +8,7 @@ aside: true
 ---
 
 <br>
-{% include figure.html image="/assets/Me.png" position="right" width="200" height="200" %}
+{% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
 * State-examined translator and interpreter
 * Court accredited as a translator and interpreter
 * 7 years of experience in the language industry
