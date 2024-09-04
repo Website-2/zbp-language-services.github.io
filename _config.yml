@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "ZBP Language Services" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Interpreting and transcription from German to English for market research studios, moderators, consultants, agencies and LSPs" # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.website-2.github.io/" # Site url, also used in jekyll-seo-tag
+url: "https://www.website-2.github.io/zbp-language-services.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/zbp-language-services/zbp-language-services.github.io"
 email: "z-c@live.co.uk"
@@ -122,21 +122,21 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /zbp-language-services.github.io/
+  url: /
 - title: Services
-  url: /zbp-language-services.github.io/services/
+  url: /services/
 - title: About
-  url: /zbp-language-services.github.io/about/
+  url: /about/
 - title: Notes
-  url: /zbp-language-services.github.io/notes/
+  url: /notes/
 - title: Categories
-  url: /zbp-language-services.github.io/categories/
+  url: /categories/
 - title: Search
-  url: /zbp-language-services.github.io/search/
+  url: /search/
 
 navigation_footer:
 - title: Legal notice
-  url: /zbp-language-services.github.io/legal-notice/
+  url: /legal-notice/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/z-bahrani-peacock/
