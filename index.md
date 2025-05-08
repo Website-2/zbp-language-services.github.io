@@ -14,9 +14,9 @@ Are you looking for lively interpreting and fast transcription to bring German p
 Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you have been looking for.<br><br><br><br>
 **Make your consumer or medical research project a success with:**
 * **Lively interpreting** that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 8 participants
-* **Cultural insight**, so that everyone can fully understand the cultural differences and better interpret interview series and research results
-* A **British English native** that's bilingual in German, meaning participant reactions and personality are transferred fluently into your end client's language
-* A service provider that's highly valued by others for **fast communication**, **timely deliveries**, **last-minute transcription and content analysis**, and **quick problem solving skills if IT issues arise**<br><br><br>
+* **Cultural insight**, so that everyone can fully experience the cultural differences during interview sessions and better interpret interview series and research results
+* A **British English native** who's bilingual in German, meaning participant reactions and personality are transferred fluently into the end client's language, allowing for deeper insight
+* A service provider that's highly valued by others for **fast communication**, **last-minute transcription and content analysis**, **timely deliveries**, and **quick problem solving skills in case of IT issues**<br><br><br>
 
 ### What I do
 
