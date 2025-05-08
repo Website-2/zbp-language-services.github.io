@@ -9,8 +9,9 @@ excerpt: "Interpreting and transcription from German to English for market resea
 <br>
 
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
-ZBP Language Services provides translation and transcription in the languages English and German to studios, moderators, consultants, agencies and LSPs working in qualitative market research.<br><br>
-These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br><br>
+Are you involved in international qualitative market research projects?<br><br>
+Are you looking for lively interpreting and fast transcription to bring German projects to life for English-speaking overservers and analysis?<br><br>
+Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you have been looking for.<br><br><br><br>
 **Make your consumer or medical research project a success with:**
 * **Lively interpreting** that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 8 participants
 * **Cultural insight**, so that everyone can fully understand the cultural differences and better interpret interview series and research results
