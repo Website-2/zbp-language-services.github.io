@@ -2,7 +2,7 @@
 title: Services
 feature_text: |
   How can I help?
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/20211129_120733.jpg"
 excerpt: "How can I help?"
 aside: true
 ---
