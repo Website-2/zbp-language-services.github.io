@@ -1,8 +1,8 @@
 ---
 title: Example post 2
 categories:
-- History
-- External sources
+- Category 2
+- Category 3
 feature_text: |
   The History of the Alembic tool
 ---

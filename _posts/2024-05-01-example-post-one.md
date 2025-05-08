@@ -1,9 +1,7 @@
 ---
 title: Example post 1
 categories:
-- General
-- External sources
-- HTML
+- Category 1
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 

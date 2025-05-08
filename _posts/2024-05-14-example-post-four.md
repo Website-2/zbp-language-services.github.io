@@ -1,7 +1,6 @@
 ---
 title: Example post 4
 categories:
-- Fees
 - FAQs
 excerpt: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo.
