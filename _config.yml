@@ -65,9 +65,9 @@ collections:
   posts:
     title: Notes # Needed for Siteleaf
     output: true
-    description: "Occasional thoughts and ideas" # The post list page content
+    description: "Coming soon!" # The post list page content
     feature_text: |
-      Welcome to my list of notes
+      FAQs and updates
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
