@@ -2,7 +2,7 @@
 title: About
 feature_text: |
   Who am I?
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/20211129_120733.jpg"
 excerpt: "Who am I?"
 aside: true
 ---
