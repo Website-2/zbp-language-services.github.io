@@ -9,15 +9,10 @@ excerpt: "Interpreting and transcription from German to English for market resea
 <br>
 
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
-Are you involved in international qualitative market research projects?<br><br>
-Are you looking for lively interpreting and fast transcription to bring German projects to life for English-speaking overservers and analysis?<br><br>
-Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you are looking for.<br><br><br><br>
-**Make your consumer or medical research project a success with:**
-* **Lively interpreting** that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 8 participants
-* **Cultural insight**, so that everyone can fully experience the cultural differences during interview sessions and better interpret interview series and research results
-* A **British English native** who's bilingual in German, meaning participant reactions and personality are transferred fluently into the end client's language, allowing for deeper insight
-* A service provider that's highly valued by others for **fast communication**, **last-minute transcription and content analysis**, **timely deliveries**, and **quick problem solving skills in case of IT issues**<br><br><br>
-
+Are you involved in international medical or consumer qualitative market research projects?<br><br>
+Are you looking for accurate and easy-to-listen-to interpreting or fast transcription to bring German projects to life for English-speaking overservers and analysis?<br><br>
+Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you are looking for.<br><br>
+Reach out now and ask for a quote!<br><br><br><br>
 ### What I do
 
 I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
