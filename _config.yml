@@ -133,6 +133,8 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
+- title: Get in touch
+  url: /contact/
 
 navigation_footer:
 - title: Legal notice
