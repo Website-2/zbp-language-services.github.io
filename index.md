@@ -11,7 +11,7 @@ excerpt: "Interpreting and transcription from German to English for market resea
 Are you involved in international medical or consumer qualitative market research projects?<br><br>
 Are you looking for accurate and easy-to-listen-to interpreting or fast transcription to bring German projects to life for English-speaking overservers and analysis?<br><br>
 Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you are looking for.<br><br>
-[Reach out now](/contact/ "Reach out now") and ask for a quote!<br><br><br><br>
+[Reach out now and ask for a quote!](/contact/ "Reach out now and ask for a quote!")<br><br><br><br>
 ### What I do
 
 I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
