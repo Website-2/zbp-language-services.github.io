@@ -6,7 +6,7 @@ feature_text: |
 feature_image: "/assets/Unsplash-1.jpg"
 excerpt: "Interpreting and transcription from German to English for market research studios, moderators, consultants, agencies and LSPs"
 ---
-
+<br>
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
 Are you involved in international medical or consumer qualitative market research projects?<br><br>
 Are you looking for accurate and easy-to-listen-to interpreting or fast transcription to bring German projects to life for English-speaking overservers and analysis?<br><br>
