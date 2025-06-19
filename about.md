@@ -26,8 +26,14 @@ Are you a market research project manager, moderator, consultant, agency or LSP 
 {% include button.html text="Send me a message" link="/contact.html" color="#b14345" %} {% include button.html text="Take a look at my portfolio" link="portfolio/" color="#b14345" %}
 <br>
 
+### What I do
 
-<br>
+I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
+{% include button.html text="Find out more about me" link="/about/" color="#b14345" %}<br><br>
+
+### Who I help
+
+I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.<br><br>
 <h5>Education, accreditations and background</h5>
 <br>
 * 2024-present: Committee member, BDÜ Berlin-Brandenburg regional chapter
@@ -37,8 +43,4 @@ Are you a market research project manager, moderator, consultant, agency or LSP 
 * 2009-2020: Childcare provider, self-employed
 * 2018-2019: Translator, proofreader, QA and translation project manager, internship at BigBabbling Services
 * 2015-2018: State-examined translator and interpreter
-
-
-### Who I help
-
-I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.<br><br>
+<br><br>
