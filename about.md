@@ -23,7 +23,7 @@ In the 7 years that I have now been working in the language industry, I've provi
 <br><br>
 Are you a market research project manager, moderator, consultant, agency or LSP working on international projects and looking for insightful research results?
 <br>Send me a message and let me know what you need!<br><br>
-{% include button.html text="Send me a message" link="/contact.html" color="#b14345" %} {% include button.html text="Take a look at my portfolio" link="portfolio/" color="#b14345" %}
+{% include button.html text="Send me a message" link="/contact/" color="#b14345" %}
 <br>
 
 ### What I do
