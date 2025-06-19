@@ -12,15 +12,6 @@ Are you involved in international medical or consumer qualitative market researc
 Are you looking for accurate and easy-to-listen-to interpreting or fast transcription to bring German projects to life for English-speaking overservers and analysis?<br><br>
 Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you are looking for.<br><br>
 [Reach out now and ask for a quote!](/contact/ "Reach out now and ask for a quote!")<br><br><br><br>
-### What I do
-
-I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
-{% include button.html text="Find out more about me" link="/about/" color="#b14345" %}<br><br>
-
-### Who I help
-
-I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.<br><br>
-{% include button.html text="Take a look at my portfolio" link="about/portfolio/" color="#b14345" %}<br><br>
 
 ### What others say
 

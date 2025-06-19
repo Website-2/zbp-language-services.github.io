@@ -25,3 +25,20 @@ Are you a market research project manager, moderator, consultant, agency or LSP 
 <br>Send me a message and let me know what you need!<br><br>
 {% include button.html text="Send me a message" link="/contact.html" color="#b14345" %} {% include button.html text="Take a look at my portfolio" link="portfolio/" color="#b14345" %}
 <br>
+
+
+<br>
+<h5>Education, accreditations and background</h5>
+<br>
+* 2024-present: Committee member, BDÜ Berlin-Brandenburg regional chapter
+* 2017-present: Translator, proofreader, QA, transcriber, interpreter, self-employed at ZBP Language Services
+* 2023: Court accreditation in Berlin, Germany
+* 2020: Court accreditation in Munich, Germany
+* 2009-2020: Childcare provider, self-employed
+* 2018-2019: Translator, proofreader, QA and translation project manager, internship at BigBabbling Services
+* 2015-2018: State-examined translator and interpreter
+
+
+### Who I help
+
+I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.<br><br>

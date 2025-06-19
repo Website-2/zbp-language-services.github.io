@@ -74,3 +74,10 @@ If it's a native English transcriber you're looking for to produce transcripts t
 
 <br><br>
 <small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing, [certified translation and interpreting](/services/certified-translation-interpreting/ "certified translation and interpreting")</small>
+
+
+
+### What I do
+
+I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
+{% include button.html text="Find out more about me" link="/about/" color="#b14345" %}<br><br>
