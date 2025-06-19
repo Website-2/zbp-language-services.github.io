@@ -12,7 +12,7 @@ Are you involved in international medical or consumer qualitative market researc
 Are you looking for accurate and easy-to-listen-to interpreting or fast transcription to bring German projects to life for English-speaking overservers and analysis?<br><br>
 Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you are looking for.<br><br>
 [Reach out now and ask for a quote!](/contact/ "Reach out now and ask for a quote!")<br><br>
-<centre>- * - * -</centre>
+<div class="center">- * - * -</div>
 <br>
 
 <small>**Make your consumer or medical research project a success with:**
