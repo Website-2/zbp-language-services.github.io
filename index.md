@@ -36,7 +36,3 @@ I work with market research studios, moderators, consultants and agencies as wel
 
 ><small>"Since 2020, Zahra has worked for us on numerous market research projects. She has exceptional skills as a simultaneous and consecutive interpreter for interviews and focus groups. We truly appreciate the quality of her work, professional manner, cooperation and fast communication."<br>
 – P., Market research consultant</small>
-
-### Send me a message
-
-{% include contact-form.html %}
