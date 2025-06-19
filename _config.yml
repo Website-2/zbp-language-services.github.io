@@ -36,7 +36,7 @@ plugins:
 
 # 3. Gem settings
 paginate: 3 # jekyll-paginate > items per page
-paginate_path: faqs/page:num # jekyll-paginate > blog page
+paginate_path: notes/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: ZahraClaireBP # jekyll-seo-tag > Owners twitter username
@@ -63,7 +63,7 @@ timezone: Europe/Berlin # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: FAQs # Needed for Siteleaf
+    title: Notes # Needed for Siteleaf
     output: true
     description: "Coming soon!" # The post list page content
     feature_text: |
