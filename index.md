@@ -13,8 +13,6 @@ Are you looking for accurate and easy-to-listen-to interpreting or fast transcri
 Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you are looking for.<br><br>
 [Reach out now and ask for a quote!](/contact/ "Reach out now and ask for a quote!")<br><br><br><br>
 
-### Client voices
-<br>
 {% include figure.html image="/assets/Testimonials.png" position="center" %}<br><br><br>
 ><small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"<br>
 – A., Market research project manager at LSP</small>
