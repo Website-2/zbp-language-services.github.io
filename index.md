@@ -15,6 +15,7 @@ Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you ar
 
 ### Client voices
 <br>
+{% include figure.html image="/assets/Testimonials.jpg" position="center" %}<br><br><br>
 ><small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"<br>
 – A., Market research project manager at LSP</small>
 
