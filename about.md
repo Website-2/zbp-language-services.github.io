@@ -39,5 +39,5 @@ I work with market research studios, moderators, consultants and agencies as wel
 {% include figure.html image="/assets/CV timeline.png" position="center" %}
 <br><br>
 <h6>Other language services provided by ZBP Language Services:</h6><br>
-<small>Marketing translation; academic translation and editing; proofreading and quality assurance; <a href="https://www.sworntranslation.zbp-language-services.com/" target="_blank" title="market research interpreting and transcription">court accredited document translation and interpreting</a></small>
+<small>Marketing translation; academic translation and editing; proofreading and quality assurance; <a href="https://www.sworntranslation.zbp-language-services.com/" target="_blank" title="court accredited document translation and interpreting">court accredited document translation and interpreting</a></small>
 <br><br>
