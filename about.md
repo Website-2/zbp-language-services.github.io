@@ -32,16 +32,13 @@ I communicate the thoughts, emotions, reactions and cultural nuances behind the 
 
 ### Who I help
 
-I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.<br><br>
-Are you a market research project manager, moderator, consultant, agency or LSP working on international projects and looking for insightful research results?
-<br>Send me a message and let me know what you need!<br><br>
-{% include button.html text="Send me a message" link="/contact/" color="#b14345" %}
+I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.
 <br><br>
 <h6>Other language services provided by ZBP Language Services</h6>
 <br>
 <small>Marketing translation; academic translation and editing; proofreading and quality assurance; <a href="https://www.sworntranslation.zbp-language-services.com/" target="_blank" title="court accredited document translation and interpreting">court accredited document translation and interpreting</a></small>
 <br><br><br>
 <center>* * *</center>
-><small>Would you like to work with a native English interpreter or transcriber bilingual in German who will bring across all the details of what your research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
+><small>Are you a market research project manager, moderator, consultant, agency or LSP?<br>Would you like to work with a native English interpreter or transcriber bilingual in German who will bring across all the details of what your research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
 
 <br>
