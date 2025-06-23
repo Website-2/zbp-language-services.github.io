@@ -30,11 +30,9 @@ aside: true
 <br><br><br><br>
 
 <h5>Client voices</h5>
-
+<br>
 {% include figure.html image="/assets/Testimonials_services 1.png" position="center" %}
-<br>
 {% include figure.html image="/assets/Testimonials_services 2.png" position="center" %}
-<br>
 {% include figure.html image="/assets/Testimonials_services 3.png" position="center" %}
 <br><br><br>
 <center>* * *</center>
