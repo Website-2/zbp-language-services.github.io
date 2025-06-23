@@ -34,13 +34,10 @@ I communicate the thoughts, emotions, reactions and cultural nuances behind the 
 ### Who I help
 
 I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.<br><br>
-<h5>Education, accreditations and background</h5>
+<h6>Education, accreditations and experience</h6>
 <br>
-* 2024-present: Committee member, BDÜ Berlin-Brandenburg regional chapter
-* 2017-present: Translator, proofreader, QA, transcriber, interpreter, self-employed at ZBP Language Services
-* 2023: Court accreditation in Berlin, Germany
-* 2020: Court accreditation in Munich, Germany
-* 2009-2020: Childcare provider, self-employed
-* 2018-2019: Translator, proofreader, QA and translation project manager, internship at BigBabbling Services
-* 2015-2018: State-examined translator and interpreter
+{% include figure.html image="/assets/CV timeline.png" position="center" %}
+<br><br>
+<h6>Other language services provided by ZBP Language Services:</h6><br>
+<small>Marketing translation; academic translation and editing; proofreading and quality assurance; <a href="https://www.sworntranslation.zbp-language-services.com/" target="_blank" title="market research interpreting and transcription">court accredited document translation and interpreting</a></small>
 <br><br>
