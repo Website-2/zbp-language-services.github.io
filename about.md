@@ -37,6 +37,6 @@ In the 8 years that I have now been working in the language industry, I've provi
 <small>Marketing translation; academic translation and editing; proofreading and quality assurance; <a href="https://www.sworntranslation.zbp-language-services.com/" target="_blank" title="court accredited document translation and interpreting">court accredited document translation and interpreting</a></small>
 <br><br><br>
 <center>* * *</center>
-><small>Are you a market research project manager, moderator, consultant, agency or LSP?<br><br>Would you like to work with a native English interpreter or transcriber bilingual in German who will bring across all the details of what your research participants are saying and also their personalities?<br><br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
+><small>Are you a market research project manager, moderator, consultant, agency or LSP?<br><br>Would you like to work with a native English interpreter or transcriber bilingual in German who will bring across all the details of what your research participants are saying and also their personalities  for better profiling?<br><br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
 
 <br>
