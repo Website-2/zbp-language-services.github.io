@@ -19,10 +19,9 @@ aside: true
 * **Clients:** market research studios, agencies, consultants, moderators
 * **Research sponsors:** include Fortune 500 companies and market leaders
 <br><br><br>
-<h5>Market research transcription</h5>
+<h5>Market research transcription and AI proofreading</h5>
 <br>
-* Transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
-* Transcription proofreading, for language service providers that want to offer their clients insightful transcripts
+* For market research report writers, product teams and language service providers that require insightful transcripts and need to evaluate interview series quickly and efficiently
 <br><br>
 * **Languages I can help with:** bilingual from German to English, monolingual in German and English
 * **Fields of expertise:** consumer, medical
@@ -61,11 +60,8 @@ aside: true
 ><small>"Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen."<br>
 – J., Yoga teacher</small>
 
-<br><br>
-Are you looking for a native English interpreter for 1v1s or focus groups that will bring across all the cultural details of what your German-language research participants are saying? Then look no further and send me an email with information about your next project!
-
 <br><br><br>
 <center>* * *</center>
-><small>Are you looking for a native English interpreter or transcriber who will bring across all the details of what your German-language research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
+><small>Are you looking for a native English interpreter or transcriber bilingual in German who will bring across all the details of what your German-language research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
 
 <br>
