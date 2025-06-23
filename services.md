@@ -36,6 +36,6 @@ aside: true
 {% include figure.html image="/assets/Testimonials_services 3.png" position="center" %}
 <br><br><br>
 <center>* * *</center>
-><small>Would you like to work with a native English interpreter or transcriber bilingual in German who will bring across all the details of what your German-language research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
+><small>Would you like to work with a native English interpreter or transcriber bilingual in German who will bring across all the details of what your research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
 
 <br>
