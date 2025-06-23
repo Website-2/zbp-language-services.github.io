@@ -10,37 +10,32 @@ aside: true
 <br>
 <h5>Market research interpreting</h5>
 <br>
-Are you looking for a native English interpreter for 1v1s or focus groups that will bring across all the cultural details of what your German-language research participants are saying? Then look no further and send me an email with information about your next project!
-<br>
-* Interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language participants
-* Quality assured through HD headset, high-speed ethernet connection for internet, back-up headset and internet connection for IT emergencies
+* For product teams that want to experience not just the words, but the thoughts, feelings, reactions and personality of their German-language participants
+* Quality assured through HD headset, high-speed ethernet connection, back-up headset and internet connection
 <br><br>
 * **Languages I can help with:** German to English, English to German
 * **Settings:** online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with any number of participants
 * **Fields of expertise:** consumer products (lifestyle, food, household, body care, IT, gaming, social media, third sector, finances, etc.), medical (pharmaceuticals, patient journeys, concept testing, etc.)
 * **Clients:** market research studios, agencies, consultants, moderators
 * **Research sponsors:** include Fortune 500 companies and market leaders
+<br><br><br>
+<h5>Market research transcription</h5>
+<br>
+* Transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
+* Transcription proofreading, for language service providers that want to offer their clients insightful transcripts
 <br><br>
+* **Languages I can help with:** bilingual from German to English, monolingual in German and English
+* **Fields of expertise:** consumer, medical
+* **Types:** verbatim, intelligent verbatim, edited, content analysis
+* **Formats:** Word, Excel
+<br><br>
+
 
 ><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
 – N., Market research sponsor</small>
 
 ><small>"She was fabulous on every single interview she did – always super clear, great diction, the emotions of the speakers really came through, and I also loved how she would say ‘Moderator’ or ‘Panelist’ each time someone spoke so it was clear who we were hearing – it makes note-taking so much easier!"<br>
 – M., Market research report writer</small>
-
-<br>
-<h5>Market research transcription</h5>
-<br>
-If it's a native English transcriber you're looking for to produce transcripts that are in line with your expectations, you've come to the right place. Just send me an email with information about your project and I'll get back to you ASAP.
-<br>
-* Transcription and content analysis, for market research report writers and product teams that need to evaluate interview series quickly and efficiently
-* Transcription proofreading, for language service providers that want to offer their clients insightful transcripts
-<br><br>
-* Bilingual from German to English, monolingual in German and English
-* Fields of expertise: medical (oncology, cardiology, gastroenterology, immunology, infectious diseases, robotics), pharmaceuticals, consumer
-* Types: verbatim, intelligent verbatim, edited, content analysis
-* Formats: MS Word, MS Excel
-<br><br>
 
 ><small>"Super helpful to work with as usual!"<br>
 – P., Project manager for market research transcription</small>
@@ -67,3 +62,10 @@ If it's a native English transcriber you're looking for to produce transcripts t
 – J., Yoga teacher</small>
 
 <br><br>
+Are you looking for a native English interpreter for 1v1s or focus groups that will bring across all the cultural details of what your German-language research participants are saying? Then look no further and send me an email with information about your next project!
+
+<br><br><br>
+<center>* * *</center>
+><small>Are you looking for a native English interpreter or transcriber who will bring across all the details of what your German-language research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
+
+<br>
