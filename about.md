@@ -1,9 +1,9 @@
 ---
 title: About
 feature_text: |
-  Who am I?
+  Who is behind ZBP Language Services?
 feature_image: "/assets/20211129_120733.jpg"
-excerpt: "Who am I?"
+excerpt: "Who is behind ZBP Language Services?"
 aside: true
 ---
 
