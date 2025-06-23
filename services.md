@@ -27,16 +27,15 @@ aside: true
 * **Fields of expertise:** consumer, medical
 * **Types:** verbatim, intelligent verbatim, edited, content analysis
 * **Formats:** Word, Excel
-<br><br>
+<br><br><br><br>
 
 {% include figure.html image="/assets/Testimonials_services 1.png" position="center" %}
 <br>
 {% include figure.html image="/assets/Testimonials_services 2.png" position="center" %}
 <br>
 {% include figure.html image="/assets/Testimonials_services 3.png" position="center" %}
-<br>
 <br><br><br>
 <center>* * *</center>
-><small>Are you looking for a native English interpreter or transcriber bilingual in German who will bring across all the details of what your German-language research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
+><small>Would you like to work with a native English interpreter or transcriber bilingual in German who will bring across all the details of what your German-language research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
 
 <br>
