@@ -29,37 +29,12 @@ aside: true
 * **Formats:** Word, Excel
 <br><br>
 
-
-><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
-– N., Market research sponsor</small>
-
-><small>"She was fabulous on every single interview she did – always super clear, great diction, the emotions of the speakers really came through, and I also loved how she would say ‘Moderator’ or ‘Panelist’ each time someone spoke so it was clear who we were hearing – it makes note-taking so much easier!"<br>
-– M., Market research report writer</small>
-
-><small>"Super helpful to work with as usual!"<br>
-– P., Project manager for market research transcription</small>
-
-><small>"Vielen Dank für die Unterstützung, war super, wie immer. Alles perfekt!"<br>
-– W., Market research agency owner and moderator</small>
-
-<br><br>
-### What others say
-
-><small>"Vielen Dank für die tolle Flexibilität, Professionalität, Qualität und insgesamt hervorragende Arbeit."<br>
-– D., Editor</small>
-
-><small>"Thank you so much for the prompt delivery of the translation of the blog post, and I appreciate the details of using client-specific style and highlighting errors in the original."<br>
-– H., Language service provider</small>
-
-><small>"Editors who reviewed Zahra’s translations are unanimous in their high praise for her work. The assistant senior editor in charge of testing considers Zahra a genuinely strong and gifted translator with an exceptional grasp of writing and language."<br>
-– K., Publisher and founder</small>
-
-><small>"Sie arbeitete schnell, gründlich, präzise und zuverlässig. Die Besprechungen waren durch ihre freundliche Art sehr angenehm. Ingesamt hohe Qualität zu einem angemessen Preis."<br>
-– S., Art therapist</small>
-
-><small>"Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen."<br>
-– J., Yoga teacher</small>
-
+{% include figure.html image="/assets/Testimonials_services 1.png" position="center" %}
+<br>
+{% include figure.html image="/assets/Testimonials_services 2.png" position="center" %}
+<br>
+{% include figure.html image="/assets/Testimonials_services 3.png" position="center" %}
+<br>
 <br><br><br>
 <center>* * *</center>
 ><small>Are you looking for a native English interpreter or transcriber bilingual in German who will bring across all the details of what your German-language research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>

@@ -24,4 +24,5 @@ Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you ar
 <center>***</center>
 <br>
 
-{% include figure.html image="/assets/Testimonials.png" position="center" %}<br>
+{% include figure.html image="/assets/Testimonials_home page.png" position="center" %}
+<br>
