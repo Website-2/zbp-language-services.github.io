@@ -4,4 +4,4 @@ indexing: false
 sitemap: false
 ---
 
-Thanks for getting in touch. I'll respond as soon as I can.
+Thank you for your message. I'll respond as soon as possible.

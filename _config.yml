@@ -131,7 +131,7 @@ navigation_header:
   url: /contact/
 
 navigation_footer:
-- title: Legal notice; privacy policy
+- title: Legal notice, privacy policy
   url: /legal-notice/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
