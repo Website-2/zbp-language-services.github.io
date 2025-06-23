@@ -40,4 +40,8 @@ I work with market research studios, moderators, consultants and agencies as wel
 <br><br>
 <h6>Other language services provided by ZBP Language Services:</h6><br>
 <small>Marketing translation; academic translation and editing; proofreading and quality assurance; <a href="https://www.sworntranslation.zbp-language-services.com/" target="_blank" title="court accredited document translation and interpreting">court accredited document translation and interpreting</a></small>
-<br><br>
+<br><br><br>
+<center>* * *</center>
+><small>Would you like to work with a native English interpreter or transcriber bilingual in German who will bring across all the details of what your German-language research participants are saying and also their personalities?<br>[➺ Then send me a message now and tell me about your project!](/contact/)</small>
+
+<br>
