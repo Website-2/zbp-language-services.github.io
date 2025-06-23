@@ -26,8 +26,7 @@ In the 8 years that I have now been working in the language industry, I've provi
 <br><br>
 <h6>What I do</h6>
 <br>
-<small>I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.</small><br><br>
-{% include button.html text="Find out more about me" link="/about/" color="#b14345" %}
+<small>I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.</small>
 <br><br><br>
 <h6>Who I help</h6>
 <br>
