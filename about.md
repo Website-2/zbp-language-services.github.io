@@ -26,12 +26,12 @@ In the 8 years that I have now been working in the language industry, I've provi
 <br><br>
 <h6>What I do</h6>
 <br>
-I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
+<small>I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.</small><br><br>
 {% include button.html text="Find out more about me" link="/about/" color="#b14345" %}
 <br><br><br>
 <h6>Who I help</h6>
 <br>
-I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.
+<small>I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.</small>
 <br><br><br>
 <h6>Other language services provided by ZBP Language Services</h6>
 <br>
