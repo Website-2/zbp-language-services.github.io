@@ -68,4 +68,3 @@ If it's a native English transcriber you're looking for to produce transcripts t
 – J., Yoga teacher</small>
 
 <br><br>
-<small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing, <a href="https://www.sworntranslation.zbp-language-services.com/" target="_blank" title="certified translation and interpreting">certified translation and interpreting</a></small>
