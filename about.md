@@ -19,21 +19,20 @@ A culture and nature-focused traveller, I grew up bilingual in the UK and spent 
 Following 10 years of success as a service provider in a different industry, I founded ZBP Language Services in 2017, so that I could apply the knowledge, skills and qualifications I had gained during that time to international projects and align my work with my interests.
 <br><br>
 In the 8 years that I have now been working in the language industry, I've provided support on projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries. According to feedback, my language services help product teams to quickly and efficiently gain the insights they need to develop their product or campaign.
-<br>
+<br><br><br>
 <h6>Education, accreditations and experience</h6>
 <br>
 {% include figure.html image="/assets/CV timeline.png" position="center" %}
-<br>
-
-### What I do
-
-I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
-{% include button.html text="Find out more about me" link="/about/" color="#b14345" %}<br><br>
-
-### Who I help
-
-I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.
 <br><br>
+<h6>What I do</h6>
+<br>
+I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
+{% include button.html text="Find out more about me" link="/about/" color="#b14345" %}
+<br><br><br>
+<h6>Who I help</h6>
+<br>
+I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.
+<br><br><br>
 <h6>Other language services provided by ZBP Language Services</h6>
 <br>
 <small>Marketing translation; academic translation and editing; proofreading and quality assurance; <a href="https://www.sworntranslation.zbp-language-services.com/" target="_blank" title="court accredited document translation and interpreting">court accredited document translation and interpreting</a></small>
