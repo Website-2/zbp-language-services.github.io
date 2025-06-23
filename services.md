@@ -10,7 +10,7 @@ aside: true
 <br>
 <h5>Market research interpreting</h5>
 <br>
-* For product teams that want to experience not just the words, but the thoughts, feelings, reactions and personality of their German-language participants
+* For product teams that want to experience not just the words, but the thoughts, feelings, reactions and personalities of their research participants
 * Quality assured through HD headset, high-speed ethernet connection, back-up headset and internet connection
 <br><br>
 * **Languages I can help with:** German to English, English to German
