@@ -11,7 +11,7 @@ aside: true
 <h5>Market research interpreting</h5>
 <br>
 * For product teams that want to experience not just the words, but the thoughts, feelings, reactions and personalities of their research participants
-* Quality assured through HD headset, high-speed ethernet connection, back-up headset and internet connection
+* Quality assured through HD headset, high-speed ethernet connection, back-up equipment
 <br><br>
 * **Languages I can help with:** German to English, English to German
 * **Settings:** online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with any number of participants

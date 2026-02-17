@@ -9,7 +9,7 @@ excerpt: "Interpreting and transcription from German to English for market resea
 <br>
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
 Are you involved in international medical or consumer qualitative market research projects?<br><br>
-Are you looking for accurate and easy-to-listen-to interpreting or fast transcription to bring German projects to life for English-speaking overservers and analysis?<br><br>
+Are you looking for accurate and easy-to-listen-to interpreting or fast transcription to bring German projects to life for English-speaking observers and analysis?<br><br>
 Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the partner you are looking for.<br><br>
 [Reach out now and ask for a quote!](/contact/ "Reach out now and ask for a quote!")
 <br><br><br>
